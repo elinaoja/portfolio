@@ -11,20 +11,8 @@ project_fg_color: ''
 ---
 #### **Motiivisarja – _Toisto_**
 
-Motiivisarjani rakentuu ihmisen luomalle toistolle. Kaikkialla ilmenevä toisto luo rytmiä, liikettä, suuntaa ja pintaa. Kuvat on otettu lähiympäristöstäni Säynätsalosta sekä Teeleidistä vuonna 2016, jolloin aloitin kuvataiteen perusopinnot. Käytin kuvaamiseen silloista kännykkäkameraani sekä ikivanhaa digijärkkäriä, jotka ovat molemmat jo menneet vaihtoon.
+Motiivisarjani rakentuu ihmisen luomalle toistolle. Kaikkialla ilmenevä toisto luo rytmiä, liikettä, suuntaa ja pintaa. Kuvat on otettu lähiympäristöstäni Säynätsalosta sekä Teeleidistä vuonna 2016, jolloin aloitin kuvataiteen perusopinnot. Käytin kuvaamiseen silloista kännykkäkameraani sekä ikivanhaa digijärkkäriä.
 
-***
+![](/uploads/pyykkinaru.jpg)
 
-**![](/uploads/pyykkinaru.jpg)**
-
-![](/uploads/viuhka.jpg)
-
-![](/uploads/tiiliseinä.jpg)
-
-![](/uploads/laituri_b.jpg)
-
-![](/uploads/sohvai_b.jpg)
-
-![](/uploads/kippo_b.jpg)
-
-![](/uploads/ikkunanauha_b.jpg)
+![](/uploads/viuhkapieni.jpg)![](/uploads/tiiliseinä.jpg)![](/uploads/laituri_b.jpg)![](/uploads/sohvai_b.jpg)![](/uploads/kippo_b.jpg)![](/uploads/ikkunanauha_b.jpg)
