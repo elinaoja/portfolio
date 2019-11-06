@@ -49,7 +49,7 @@ div.content > p {
 }
 
 .project-header {
-  padding: 15vh 0 4rem 0;
+  padding: 15vh 0 1rem 0;
 }
 .project-title {
   font-size: 3rem;
