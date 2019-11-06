@@ -16,4 +16,12 @@ Motiivisarjani rakentuu ihmisen luomalle toistolle. Kaikkialla ilmenevä toisto 
 
 ![](/uploads/viuhkapieni.jpg)
 
-![](/uploads/tiiliseina.jpg)![](/uploads/laituri_b.jpg)![](/uploads/sohvai_b.jpg)![](/uploads/kippo_b.jpg)![](/uploads/ikkunanauha_b.jpg)
+![](/uploads/tiiliseina.jpg)
+
+![](/uploads/laituri_b.jpg)
+
+![](/uploads/sohvai_b.jpg)
+
+![](/uploads/kippo_b.jpg)
+
+![](/uploads/ikkunanauha_b.jpg)
