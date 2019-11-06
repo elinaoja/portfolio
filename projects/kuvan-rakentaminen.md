@@ -11,3 +11,7 @@ project_fg_color: ''
 ## Kuvan rakentaminen
 
 ![](/uploads/viuhkapieni.jpg)
+
+![](/uploads/sohvai_b.jpg)
+
+![](/uploads/pyykkinaru.jpg)
