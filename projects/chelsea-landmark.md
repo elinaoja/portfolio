@@ -4,7 +4,8 @@ year: 2019
 title: Kuvan rakentaminen
 category: Identity
 thumbnail: "/uploads/sinkelt2.jpg"
-categories: []
+categories:
+- kuvan rakenetaminen
 project_bg_color: ''
 project_fg_color: ''
 
