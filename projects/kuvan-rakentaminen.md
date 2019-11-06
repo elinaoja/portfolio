@@ -12,7 +12,9 @@ project_fg_color: ''
 
 Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla asti. Jostain syystä ajauduin tavoittelemaan suhteellisen realistista kuvaustyyliä. Lopputulos on melko jäykkä ja työstä välittyy piirtäessä vallinnut epäusko omaan kykyyn tehdä näköiskuvaa. Tämä olikin ensimmäinen kerta, kun sellaista edes yritin. Tehtävä tarjosi aloittelijalle tehokasta harjoitusta lyijykynän käyttöön ja katsomiseen. Tunnetilani kuvassa oli tarkoitus olla keskittynyt ja tarkkaavainen. Tyhjä tila on tärkeä.
 
-![](/uploads/omakuva_pieni.jpg)
+![Omakuva](/uploads/omakuva_pieni.jpg)
+
+Saimme myös tehtäväksi valmistaa tailteilijaminää kuvaavan kollaasin. Olen toteuttanut kollaasin konkereettisesti paperille, mutta laitan tänne blogiin kuvat eri muodossa, jotta saan ne laadukkaammin esille. Kaikki kuvat ovat internetistä peräisin, eikä minulla ole niiden käyttöön mitään oikeutta. Poistan ne blogistani arvioinnin jälkeen.
 
 ### Motiivisarja – Toisto
 
