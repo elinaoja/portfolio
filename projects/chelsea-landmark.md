@@ -9,6 +9,22 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+#### **Motiivisarja – _Toisto_**
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Motiivisarjani rakentuu ihmisen luomalle toistolle. Kaikkialla ilmenevä toisto luo rytmiä, liikettä, suuntaa ja pintaa. Kuvat on otettu lähiympäristöstäni Säynätsalosta sekä Teeleidistä vuonna 2016, jolloin aloitin kuvataiteen perusopinnot.
+
+***
+
+**![](/uploads/pyykkinaru.jpg)**
+
+![](/uploads/viuhka.jpg)
+
+![](/uploads/tiiliseinä.jpg)
+
+![](/uploads/laituri_b.jpg)
+
+![](/uploads/sohvai_b.jpg)
+
+![](/uploads/kippo_b.jpg)
+
+![](/uploads/ikkunanauha_b.jpg)
