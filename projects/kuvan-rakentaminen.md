@@ -16,13 +16,7 @@ Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla ast
 
 Saimme tehtäväksi valmistaa myös omaa tailteilijaminää kuvaavan kollaasin. Olen toteuttanut työn konkereettisesti paperille, mutta laitan portfolioon alkuperäiset internetistä haalitut kuvat, jotta saan ne laadukkaammin esille. Minulla ei ole oikeutta kuvien käyttöön ja poistan ne blogistani arvioinnin jälkeen.
 
-![](/uploads/kollaasi yläosa.jpg)
-
-![](/uploads/kollaasi kolmas osa.jpg)
-
-![](/uploads/kollaasi toka osa.jpg)
-
-![](/uploads/kollaasi neljäs oikea.jpg)
+![](/uploads/kollaasiylaosa.jpg)
 
 Yllättävää kyllä, vuonna 2016 tehty kuvakokoelma on kestänyt aikaa melko hyvin; olen yhä suuresti kiinnostunut erilaisista rakennetuista ja luonnontilaisista paikoista, niiden tunnelmista, ajan kerroksista sekä ihmiskehon tavoista olla olemassa.
 
