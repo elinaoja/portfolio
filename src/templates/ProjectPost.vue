@@ -48,6 +48,9 @@ div.content > p {
   padding: 1em 0 1em 0;
 }
 
+div.content > h3 {
+  padding-top: 2em;
+}
 .project-header {
   padding: 15vh 0 1rem 0;
 }
