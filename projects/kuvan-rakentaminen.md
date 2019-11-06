@@ -14,7 +14,15 @@ Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla ast
 
 ![](/uploads/omakuva_pieni.jpg "Omakuva")
 
-Saimme tehtäväksi valmistaa myös tailteilijaminää kuvaavan kollaasin. Olen toteuttanut työn konkereettisesti paperille, mutta laitan tänne blogiin kuvat eri muodossa, jotta saan ne laadukkaammin esille. Kaikki kuvat ovat internetistä peräisin, eikä minulla ole niiden käyttöön mitään oikeutta. Poistan ne blogistani arvioinnin jälkeen.
+Saimme tehtäväksi valmistaa myös tailteilijaminää kuvaavan kollaasin. Olen toteuttanut työn konkereettisesti paperille, mutta laitan tänne blogiin esille internetistä peräisin olevat alkuperäiset kuvat, jotta saan ne laadukkaammin esille. Minulla ei ole oikeutta niiden käyttöön, joten poistan ne blogistani arvioinnin jälkeen.
+
+![](/uploads/kollaasi yläosa.jpg)
+
+![](/uploads/kollaasi kolmas osa.jpg)
+
+![](/uploads/kollaasi toka osa.jpg)
+
+![](/uploads/kollaasi neljäs oikea.jpg)
 
 ### Motiivisarja – Toisto
 
