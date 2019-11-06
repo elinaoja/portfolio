@@ -1,7 +1,7 @@
 <template>
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
-            <h3 class="project-title">{{ item.node.title }}</h3>
+            <h3 class="project-title" style="text-align: left">{{ item.node.title }}</h3>
             <g-link :to="item.node.path" class="project-link">
             <g-image
                 :src="item.node.thumbnail"
