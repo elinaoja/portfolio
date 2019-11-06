@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Kuvan rakentaminen
 category: Identity
-thumbnail: "/uploads/sinkelt1.jpg"
+thumbnail: "/uploads/sinkelt2.jpg"
 categories: []
 project_bg_color: ''
 project_fg_color: ''
