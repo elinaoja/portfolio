@@ -18,6 +18,12 @@ Saimme tehtäväksi valmistaa myös omaa tailteilijaminää kuvaavan kollaasin. 
 
 ![](/uploads/kollaasiylaosa.jpg)
 
+![](/uploads/kollaasitokaosa.jpg)
+
+![](/uploads/kollaasikolmasosa.jpg)
+
+![](/uploads/kollaasineljäs.jpg)
+
 Yllättävää kyllä, vuonna 2016 tehty kuvakokoelma on kestänyt aikaa melko hyvin; olen yhä suuresti kiinnostunut erilaisista rakennetuista ja luonnontilaisista paikoista, niiden tunnelmista, ajan kerroksista sekä ihmiskehon tavoista olla olemassa.
 
 ### Motiivisarja – Toisto
