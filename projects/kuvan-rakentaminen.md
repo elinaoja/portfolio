@@ -10,7 +10,7 @@ project_fg_color: ''
 ---
 ### Omakuva
 
-Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla asti. Jostain syystä lähdin tavoittelemaan suhteellisen realistista kuvaustyyliä. Lopputulos on jäykkä ja työstä välittyy piirtäessä vallinnut epäusko omaan kykyyn tehdä näköiskuvaa. Tämä olikin ensimmäinen kerta, kun sellaista edes yritin. Tehtävä tarjosi tehokasta harjoitusta lyijykynän käyttöön ja katsomiseen. Tunnetilani kuvassa oli tarkoitus olla keskittynyt ja tarkkaavainen. Tyhjä tila on tärkeä.
+Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla asti. Jostain syystä ajauduin tavoittelemaan suhteellisen realistista kuvaustyyliä. Lopputulos on melko jäykkä ja työstä välittyy piirtäessä vallinnut epäusko omaan kykyyn tehdä näköiskuvaa. Tämä olikin ensimmäinen kerta, kun sellaista edes yritin. Tehtävä tarjosi aloittelijalle tehokasta harjoitusta lyijykynän käyttöön ja katsomiseen. Tunnetilani kuvassa oli tarkoitus olla keskittynyt ja tarkkaavainen. Tyhjä tila on tärkeä.
 
 ![](/uploads/omakuva_pieni.jpg)
 
