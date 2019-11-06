@@ -30,7 +30,7 @@ export default {
 <style scoped>
 .header {
     position: relative;
-    height: 6rem;
+    height: 5rem;
     z-index: 10;
 }
 .header.sticky {
