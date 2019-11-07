@@ -12,7 +12,7 @@ project_fg_color: ''
 
 Saimme tehtäväksemme abstrahoida valitsemaamme esittävää kuvaa vaihe vaiheelta siten, että lopputuloksena on täysabstrakti tulkinta esittävästä lähtökohdastaan. Abstrahoinnin lähtökohdaksi valitsin valokuvataiteilija Liivia Sirolan kuvan. Olen usean vuoden ajan seurannut hänen esteettisesti taidokasta kuvablogiaan nimeltä [VIA](http://vialiivia.blogspot.fi/), josta [valitsemani kuvakin](http://1.bp.blogspot.com/-CSoiwhX33Sg/TzX7UV-gZzI/AAAAAAAAImo/NCM_WSRmUxE/s1600/IMG_2474.JPG) on peräisin. Valokuvassa keltaisiin villasukkiin ja valkoiseen mekkoon pukeutunut tyttö pyörähtää siten, että kuvaan syntyy tanssinomaista liikettä. Tanssiva tyttö on kuvattu vyötärölinjasta alaspäin, jolloin katse kohdistuu jalkoihin ja pyöreään sinertävään mattoon.
 
-![](https://1.bp.blogspot.com/-FGXG8vWF6Pc/VrNi3wEEHFI/AAAAAAAADtA/lRFysyZR1gg/s1600/sininenmatto.jpg)
+![](/uploads/sininenmatto.jpg)
 
 ![](/uploads/keltainenm.jpg)
 
@@ -24,13 +24,13 @@ Abstrahoinnin ensimmäinen vaihe tuotti yllä olevat pastelliliituluonnokset, jo
 
 Jatkoin luonnostelua akvarelleilla, koetin ylemmässä kuvassa tuoda esiin lähtökohtana toimivan kuvan lämpöenergiaa ikään kuin maton pinnasta mitattuna ja alemmassa liikettä. Hahmotelmat jäivät aika pinnallisiksi ja halusin kokeilla vielä maalatessa mieleen juolahtanutta tekniikkaa.
 
-Tiedättehän sen näkymän, kun kastaa siveltimen vesilasiin ja veteen leviävä pigmentti lähtee liikkumaan kauniisti? Siinä liikkeessä oli jotain kiinnostavaa, ja aloinkin testailemaan "veden maalaamista" akvarelleilla. Tein erilaisia kokeiluja tiputtelemalla pigmenttiä pipetillä ja ruiskuttamalla sitä veteen. Kuvasin veteen syntyviä värimaisemia kameralla. Idea ei ole ainutlaatuinen, sillä varmasti useat taiteilijat ovat eri tavoin soveltaneet tätä tekniikkaa työskentelyssään. Itse olen törmännyt vastaavaan muun muassa kuvataiteilija Laura Konttisen ja Kim Keeverin töissä, jotka ovatkin kertakaikkisen upeita.
+Tiedättehän sen näkymän, kun kastaa siveltimen vesilasiin ja veteen leviävä pigmentti lähtee liikkumaan kauniisti? Siinä liikkeessä oli jotain kiinnostavaa, ja aloinkin testailemaan "veden maalaamista" akvarelleilla. Tein erilaisia kokeiluja tiputtelemalla pigmenttiä pipetillä ja ruiskuttamalla sitä veteen. Harjoittelin pigmenttien liikkeiden ohjailua ja kuvasin veteen syntyviä värimaisemia kameralla. Idea ei ole ainutlaatuinen, sillä varmasti useat taiteilijat ovat eri tavoin soveltaneet tätä tekniikkaa työskentelyssään. Itse googlaillesani törmäsin vastaavaan muun muassa kuvataiteilija Laura Konttisen ja Kim Keeverin töissä, jotka ovatkin kertakaikkisen upeita.
 
-![](/uploads/collageleviää.jpg)Yllä kuvasarja värin liikkeistä vedessä.
+![](/uploads/collageleviää.jpg)
+
+Yllä kuvasarja värin liikkeistä vedessä.
 
 Alla oleva kuva on prosessin lopputulos ja abstrakti vastine Sirolan valokuvalle.
-
-![](/uploads/pyörresinkelt1.jpg)
 
 ## Omakuva
 
