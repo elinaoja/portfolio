@@ -26,7 +26,7 @@ Jatkoin luonnostelua akvarelleilla, koetin ylemmässä kuvassa tuoda esiin läht
 
 Tiedättehän sen näkymän, kun kastaa siveltimen vesilasiin ja veteen leviävä pigmentti lähtee liikkumaan kauniisti? Siinä liikkeessä oli jotain kiinnostavaa, ja aloinkin testailemaan "veden maalaamista" akvarelleilla. Tein erilaisia kokeiluja tiputtelemalla pigmenttiä pipetillä ja ruiskuttamalla sitä veteen. Kuvasin veteen syntyviä värimaisemia kameralla. Idea ei ole ainutlaatuinen, sillä varmasti useat taiteilijat ovat eri tavoin soveltaneet tätä tekniikkaa työskentelyssään. Itse olen törmännyt vastaavaan muun muassa kuvataiteilija Laura Konttisen ja Kim Keeverin töissä, jotka ovatkin kertakaikkisen upeita.
 
-![](/uploads/collageleviää.jpg)Yllä kuvasarja värin liikkeistä vedessä. 
+![](/uploads/collageleviää.jpg)Yllä kuvasarja värin liikkeistä vedessä.
 
 Alla oleva kuva on prosessin lopputulos ja abstrakti vastine Sirolan valokuvalle.
 
