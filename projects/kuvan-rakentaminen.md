@@ -34,6 +34,16 @@ Yllä on kuvasarja värin liikkeistä vedessä. Alla oleva kuva on prosessin lop
 
 ## Neulanreikäkuvaus ja syanotypia
 
+![](/uploads/rune.jpg)Kuvan rakentaminen -kurssiin kuului osana neulanreikävalokuvaus. Valmistimme oman kameran ja opettelimme käyttämään sitä. Kuvassa kokenut opettajamme _Rune Snellman_ demonstroi, miten neulanreikäkameran metallinen aukko-osa hiotaan ohueksi ennen varsinaisen aukon tekoa neulalla.
+
+![](/uploads/nkkuvaa.jpg)Neulanreikäkamera in action! Kuvasin tavaravaunua Jyväskylän matkakeskuksella. Valotusaika oli 9 minuuttia tuollaisella pilvisellä ja lumisateisella säällä puolenpäiväna aikaan. Valon määrän lisäksi valotusaikaan vaikuttaa kameran polttoväli ja paperin herkkyys.
+
+![](/uploads/junanega.jpg)Neulanreikäkameralla otettu kuva kehitettynä. Kuva valottuu paperille negatiivina, ylösalaisin ja peilikuvana.
+
+![](/uploads/syanotypiablogi.jpg)Syanotypiavedos negatiivista. Kuva on keskiosasta "puhki", tältä alueelta puuttuvat sävyt. Kurssiosion tiukan aikataulun vuoksi en ehtinyt muokata negatiivia kuvankäsittelyssä siten, että tältä olisi vältytty. Kuva on myös pohjustettu tarpeettoman suurelta alueelta, minkä vuoksi jouduin leikkaamaan sinistä kuvamassaa pois ylä- ja alareunoista. Samalla menetin tekniikalle ominaisen rouhean reunan näiltä osin, mikä on kyllä sääli.
+
+Tekniikka sinänsä on kyllä loistava, ja kokonaisuutena neulanreikä ja syanotypia oli innostava ja juureva juttu. Jonkin verran jäin miettimään syanotypiassa ja pimiössä käytettävien aineiden haitallisuutta ihmiselle ja ympäristölle. Huomaan että tämmöiset asiat mietityttävät minua yhä enemmän kuvataiteen (ja kaiken muunkin) tekemisessä. Asiaa olisi mielestäni pitänyt käsitellä myös opetuksessa.
+
 ## Omakuva
 
 Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla asti. Jostain syystä ajauduin tavoittelemaan suhteellisen realistista kuvaustyyliä. Lopputulos on melko jäykkä ja työstä välittyy piirtäessä vallinnut epäusko omaan kykyyn tehdä näköiskuvaa. Tämä olikin ensimmäinen kerta, kun sellaista edes yritin. Tehtävä tarjosi aloittelijalle tehokasta harjoitusta lyijykynän käyttöön ja katsomiseen. Tunnetilani kuvassa oli tarkoitus olla keskittynyt ja tarkkaavainen. Tyhjä tila on tärkeä.
