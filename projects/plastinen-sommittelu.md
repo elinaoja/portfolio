@@ -18,7 +18,7 @@ Suhteeni puuhun ja muihin koviin materiaaleihin on tähän asti ollut melko etä
 
 ## Kirjaveistos
 
-Askarteluhetki. Sille on paikkansa maailmassa. Itse en aio lähteä tähän suuntaan.
+Askarteluhetki. Sille on paikkansa maailmassa. Sattumalta arkkitehtuuriaiheinen kirja leikeltävänä.
 
 ![](/uploads/paperiveistoskollaasi.jpg)
 
