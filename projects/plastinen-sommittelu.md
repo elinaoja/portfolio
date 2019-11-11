@@ -8,7 +8,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-### Puu
+## Puu
 
 Plastisen sommittelun ensimmäinen tehtävä oli rakentaa veistos opettajamme Kirsi Tapperin paikalle tuomasta tuoreesta lepästä. Veistoksen aiheeksi hän antoi "talventörröttäjä". Pohdiskelin työtä tehdessä, että veistokseni on enemmänkin "törrömaisema". Veistoksen oksamaisten törröttäjien voi hahmottaa olevan eri etäisyyksillä vaikkapa lumisessa rinteessä. Lumi hämää silmää ja vääristää etäisyyksiä; mikä oksista on lähellä ja mikä kaukana? Kolmiulotteisuus saattaa katsojasta hetkisen vaikuttaa kaksiulotteiselta.
 
@@ -32,4 +32,4 @@ Pintakäsittelin työn lakkamaalilla ja lisäsin joutsenen kaulaan helmikorun.
 
 ![](/uploads/joutsenkollasi3.jpg)
 
-## Paperi
+## Keramiikka
