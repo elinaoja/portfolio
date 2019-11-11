@@ -23,3 +23,5 @@ Askarteluhetki. Sille on paikkansa maailmassa. Itse en aio lähteä tähän suun
 ![](/uploads/paperiveistoskollaasi.jpg)
 
 ## Paperimassa
+
+Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. Veistoprosessi alkoi kanaverkkorungon muotoilulla. Verkkoa väännellessä huomasin rungon alkavan muotoutua joutsenen kaulan malliseksi, aihe tarkentui siis tekemisen kautta. Runko vahvistettiin liisterillä ja sanomalehtisuikaleilla, minkä jälkeen se massattiin.
