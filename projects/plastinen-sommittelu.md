@@ -20,4 +20,6 @@ Suhteeni puuhun ja muihin koviin materiaaleihin on tähän asti ollut melko etä
 
 Askarteluhetki. Sille on paikkansa maailmassa. Itse en aio lähteä tähän suuntaan.
 
-![](/uploads/paperiveistos kollaasi.jpg)
+![](/uploads/paperiveistoskollaasi.jpg)
+
+## Paperimassa
