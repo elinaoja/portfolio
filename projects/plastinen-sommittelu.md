@@ -18,6 +18,6 @@ Suhteeni puuhun ja muihin koviin materiaaleihin on tähän asti ollut melko etä
 
 ## Kirjaveistos
 
-Pakollinen askarteluhetki. Sainpahan sentäs käyttööni arkkitehtuuria käsittelevän teoksen, jota olisin ehkä mieluummin kyllä lukenut.
+Askarteluhetki. Sille on paikkansa maailmassa. Itse en aio lähteä tähän suuntaan.
 
 ![](/uploads/paperiveistos kollaasi.jpg)
