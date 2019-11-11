@@ -29,3 +29,5 @@ Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. Veistoprosessi alkoi ka
 ![](/uploads/joutsenkollaasi1.jpg)
 
 ![](/uploads/joutsenkollasi3.jpg)
+
+Pintakäsittelin työn lakkamaalilla ja lisäsin joutsenen kaulaan helmikorun.
