@@ -15,3 +15,9 @@ Plastisen sommittelun ensimmäinen tehtävä oli rakentaa veistos opettajamme Ki
 Suhteeni puuhun ja muihin koviin materiaaleihin on tähän asti ollut melko etäinen (olen aiemmalta koulutukselta tekstiiliartesaani). Tämä tehtävä olikin äärimmäisen tärkeä minulle, sillä tartuin pitkästä aikaa puukkoon ja aloin veistämään puuta. Se tuntui hyvältä ja jotenkin merkitykselliseltä. Arvelen että syvyyttä materiaalin työstämiseen tuo alitajunta, joka tuntuisi lähtevän liikkeelle vuoleskellessa. Sama ilmiö tapahtui minulle savea työstäessä. Kolmiulotteisen materiaalin kanssa tapahtunee jotain rauhoittavaa ja maadoittavaa, palauttavaa.
 
 ![](/uploads/törröttäjäkollaasi.jpg)
+
+## Kirjaveistos
+
+Pakollinen askarteluhetki. Sainpahan sentäs käyttööni arkkitehtuuria käsittelevän teoksen, jota olisin ehkä mieluummin kyllä lukenut.
+
+![](/uploads/paperiveistos kollaasi.jpg)
