@@ -24,10 +24,12 @@ Askarteluhetki. Sille lienee paikkansa maailmassa. (Sattumalta arkkitehtuuriaihe
 
 ## Paperimassa
 
-Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. Veistoprosessi alkoi kanaverkkorungon muotoilulla. Verkkoa väännellessä huomasin rungon alkavan muotoutua joutsenen kaulan malliseksi, aihe tarkentui siis tekemisen kautta. Runko vahvistettiin liisterillä ja sanomalehtisuikaleilla, minkä jälkeen se massattiin.
+Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. Veistoprosessi alkoi kanaverkkorungon muotoilulla. Verkkoa väännellessä huomasin rungon alkavan muotoutua joutsenen kaulan malliseksi, aihe tarkentui siis tekemisen kautta. Runko vahvistettiin liisterillä ja sanomalehtisuikaleilla, minkä jälkeen se massattiin. 
 
 ![](/uploads/joutsenkollaasi1.jpg)
 
+Pintakäsittelin työn lakkamaalilla ja lisäsin joutsenen kaulaan helmikorun.
+
 ![](/uploads/joutsenkollasi3.jpg)
 
-Pintakäsittelin työn lakkamaalilla ja lisäsin joutsenen kaulaan helmikorun.
+## Paperi
