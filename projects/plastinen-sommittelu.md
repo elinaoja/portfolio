@@ -51,3 +51,7 @@ Ajattelen että saven merkityksellisyys perustuu suurelta osin työskentelyssä 
 Pidin työstäni eniten vaiheessa ennen pintakäsittelyä ja polttoa. Pintakäsittelyaineeksi tarjottiin kenkäplankkia, mikä ei olisi missään tapauksessa ollut oma valintani. Kasvojen muotoilu tuntui vaivattomalta, ne vain tulivat esiin.
 
 Samoihin aikoihin kurssin kanssa Jyväskylän taidemuseossa oli esillä Tommi Toijan näyttely _Mutatis mutandis._ Toijan tapa työstää keramiikkaa rikkomalla jo kertaalleen poltettua ja lisäämällä uusia kerroksia on kiinnostava. Hänen keramiikkahahmonsa ovat samaistuttavia, ilmeikkäitä, rujoja. Voin vain kuvitella, miten tyydyttävää erilaisten hahmojen, kehojen ja ilmeiden esiinkaivaminen voi taiteilijalle olla.
+
+## Kipsi
+
+![](/uploads/kipsityö1.jpg)
