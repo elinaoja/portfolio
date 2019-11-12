@@ -55,3 +55,5 @@ Samoihin aikoihin kurssin kanssa Jyväskylän taidemuseossa oli esillä [Tommi T
 ## Kipsi
 
 ![](/uploads/kipsityö1.jpg)
+
+Kipsityö oli eräänlainen välitehtävä. Teimme muotin savesta ja valoimme siihen kipsityömme. Käytin muotin tekemiseen helminauhoja. Lopputulos on struktuuriltaan ihan kiinnostava reliefi. Kipsiin jääneillä ilmakuplilla oli osuutta asiaan.
