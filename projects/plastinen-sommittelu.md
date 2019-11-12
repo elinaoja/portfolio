@@ -24,7 +24,7 @@ Kirjaveistoksen teko oli silkkaa askartelua minun osaltani. Joillakin ryhmäläi
 
 ## Paperimassa
 
-Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. "Veistoprosessi" alkoi kanaverkkorungon muotoilulla. Verkkoa väännellessä huomasin rungon alkavan muotoutua joutsenen kaulan malliseksi, aihe tarkentui siis tekemisen kautta. Runko vahvistettiin liisterillä ja sanomalehtisuikaleilla, minkä jälkeen se massattiin.
+Paperimassaveistoksen aihe "eläin" tuli opettajaltamme. Veistoprosessi alkoi kanaverkkorungon muotoilulla. Verkkoa väännellessä huomasin rungon alkavan muotoutua joutsenen kaulan malliseksi, aihe tarkentui siis tekemisen kautta. Runko vahvistettiin liisterillä ja sanomalehtisuikaleilla, minkä jälkeen se massattiin.
 
 ![](/uploads/joutsenkollaasi1.jpg)
 
@@ -32,13 +32,13 @@ Pintakäsittelin työn lakkamaalilla ja lisäsin joutsenen kaulaan helmikorun.
 
 ![](/uploads/joutsenkollasi3.jpg)
 
-Paperimassa on hyvä tekniikka tietyissä tilanteissa, ja melko sujuva juuri luokkaympristössä, jossa resurssit eivät riitä muuhun. Itseäni paperimassa ei materiana puhuttele. Sillä saa aikaiseksi hienoja asioita, mutta samalla se on väärällä tavalla kömpelö ja jotenkin irrallinen.
+Paperimassa on perusteltu tekniikka tietyissä tilanteissa, ja melko sujuva juuri luokkaympristössä, jossa ei ole puitteita vaativimmille tekniikoille. Itseäni paperimassa ei materiaalina kuitenkaan suuresti puhuttele. En ehkä ole vielä oivaltanut sen ilmaisuvoimaa.
 
 ## Keramiikka
 
-Savi oli minulle materiaalina tärkein plastisen sommittelun kurssilla. Paperimassan jälkeen se tarjosi konkreettisia helpotuksen hetkiä; vihdoinkin käsissä oli herkkä ja ikuinen materiaali, joka ei kaivannut perustelua. Aiheeksi saimme ihmisen kasvot. Juureva aihe toimi loistavasti materiaalin kanssa yhteen. Muistan kun usein niin äänekäs luokkamme hiljeni työskentelyn äärelle, ja minäkin pystyin keskittymään!
+Savi oli minulle materiaalina tärkein plastisen sommittelun kurssilla. Paperimassan jälkeen se tarjosi helpottavaa autenttisuutta. Keramiikkatyön aiheeksi saimme ihmisen kasvot. Juureva aihe toimi loistavasti materiaalin kanssa yhteen. Muistan kun usein niin äänekäs luokkamme hiljeni työskentelyn äärelle, ja jopa minäkin pystyin keskittymään!
 
-Ajattelen että saven merkityksellisyys perustuu juuri työskentelyssä tapahtuviin seikkoihin. Ihmiskädet ja -keho pääsevät tekemään niille luontevaa tehtävää kosketuksen, liikkeen ja rytmin kautta. Kaiken lisäksi savi koskettaa takaisin; se tarjoaa herkän vastakosketuksen, joka auttaa hahmottamaan sekä itseä että materiaalia hieman eri tavalla kuin työvälineitä käytettäessä. Uudelleenmuokattavuus antaa armoa ja tietty kömpelyyskin voi olla kaunista.
+Ajattelen että saven merkityksellisyys perustuu suurelta osin työskentelyssä tapahtuviin seikkoihin. Ihmiskädet ja -keho pääsevät tekemään niille luontevaa tehtävää kosketuksen, liikkeen ja rytmin kautta. Kaiken lisäksi savi koskettaa takaisin; se tarjoaa herkän vastakosketuksen, joka auttaa hahmottamaan sekä itseä että materiaalia hieman eri tavalla kuin kehosta erillisiä työvälineitä käytettäessä. Uudelleenmuokattavuus antaa armoa ja tietty kömpelyyskin voi olla kaunista.
 
 ![](/uploads/savi11.jpg)
 
@@ -47,3 +47,7 @@ Ajattelen että saven merkityksellisyys perustuu juuri työskentelyssä tapahtuv
 ![](/uploads/kollaasiok1.jpg)
 
 ![](/uploads/savikollaasi0k2.jpg)
+
+Pidin työstäni eniten ennen sen pintakäsittelyä ja polttoa. Pintakäsittelyaineeksi tarjottiin kenkäplankkia, mikä ei olisi ollut oma valintani. 
+
+Samoihin aikoihin kurssin kanssa sattui Jyväskylän taidemuseossa olemaan Tommi Toijan näyttely 
