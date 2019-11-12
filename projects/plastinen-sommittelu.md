@@ -44,4 +44,6 @@ Ajattelen että saven merkityksellisyys perustuu juuri työskentelyssä tapahtuv
 
 ![](/uploads/savi234b.jpg)
 
-![](/uploads/kollaasiok1.jpg)![](/uploads/savikollaasi0k2.jpg)
+![](/uploads/kollaasiok1.jpg)
+
+![](/uploads/savikollaasi0k2.jpg)
