@@ -26,6 +26,10 @@ Alin oranssi palkki kuultaa keltaisen suorakaiteen edessä, keskimmäinen suorak
 
 ![](/uploads/kiskot.jpg)
 
+## Additiivinen ja subtraktiivinen värisekoitus
+
+Suoran valon sekoittuminen eli additiivinen värien sekoittuminen tulee ymmärrettäväksi prismalinssin avulla. Värispektri syntyy valkoisen auringonvalon hajaantuessa; spektrin eri värit ovat valovoimaltaan heikompia kuin valkoinen valo, jonka ne yhdessä muodostavat. Additiivisessa sekoittumisessa eri väristen valojen sekoittuminen päällekkäin lisää valoisuutta. Esimerkiksi tietokoneen näyttö toimii tällä periaatteella.
+
 ![](/uploads/siniset.jpg)
 
-Lisää tekstiä
+Subtraktiivisessa värisekoituksessa ei koskaan synny valkoista, vaan päin vastoin, mitä useampia värejä sekoitetaan sitä tummempaa tulee. Esimerkiksi maalipigmentit toimivat tällä periaatteella.
