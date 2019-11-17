@@ -8,7 +8,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Tekstiä
+![](/uploads/harmaasävypieni.jpg)Tekstiä
 
 ![](/uploads/siniset.jpg)
 
