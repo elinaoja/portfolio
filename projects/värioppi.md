@@ -20,6 +20,12 @@ Pohjaväri vaikuttaa päälle asetettuun väriin siten, että se vähentää sii
 
 ![](/uploads/taustavärivaikutus.jpg)
 
+## Läpikuultavuus ja tilailluusio – värien rajat ja kolmiulotteisuus
+
+Alin oranssi palkki kuultaa keltaisen suorakaiteen edessä, keskimmäinen suorakaiteen "sisällä" ja ylin takana. Toteutuksen muodot korostavat tilantuntua.
+
+![](/uploads/kiskot.jpg)
+
 ![](/uploads/siniset.jpg)
 
 Lisää tekstiä
