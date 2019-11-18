@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/havaintopiirustus.md
 - projects/värioppi.md
 - projects/plastinen-sommittelu.md
 - projects/kuvan-rakentaminen.md
