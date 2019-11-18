@@ -78,4 +78,26 @@ Muodosta neljän värin sarjat, joista toinen koostuu vaaleista ja toinen tummis
 
 ![](/uploads/värisointu.jpg)
 
-Kuultoväri ja s
+Pintaväri, kuultoväri ja syvyysväri
+
+Pintavärit ovat objektien ominaisvärejä.
+
+Kuultovärit ilmenevät luonnossa ohuina, läpikuultavina kerroksina silmän ja kohteen välissä. Ne ovat kohteen pintaväristä riippumattomia. Havaitsemme kuultovärejä esimerkiksi ilmamassan tai auringon valon tuomissa sävyissä.
+
+Syvyysväri esiintyy kolmiulotteisissa nesteissä. Voimme havaita syvyysvärin vaikutuksen esimerkiksi vedellä täytettyä uima-allasta tutkimalla; vaikka vesi on saman väristä kaikkialla altaassa, veden värit syvenevät vesimassan lisääntyessä. Vesiväri on syvyysväri.
+
+Tehtävä 11: Hae nekjä väriä ja etsi niille kuultovärit kaksinkertaisesti. Toteuta myös käänteisversio.
+
+![](/uploads/lato.jpg)
+
+tästä työstä vois ottaa kyl uuden kuvan!
+
+Optinen sekoittuminen – Bezoldin efekti
+
+Kaksi tai useampia samanaikaisesti havaittavia värejä sulautuvat yhdeksi uudeksi väriksi. Kantavärit mitätöityvät.
+
+Vrt pointtillismi.
+
+Tehtävä 12: Luo Bezoldin efekti neljällä värisarjalla, jossa käytätä viittä eri väriä. Poista jokaisessa väritilasta yksi väri ja korvaa se uudella. Miten väritilat muuttuvat yhden värin vaihtuessa?
+
+![](/uploads/matot.jpg)
