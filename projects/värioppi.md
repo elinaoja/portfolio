@@ -88,7 +88,7 @@ Syvyysväri esiintyy kolmiulotteisissa nesteissä. Voimme havaita syvyysvärin v
 
 Tehtävä 11: Hae nekjä väriä ja etsi niille kuultovärit kaksinkertaisesti. Toteuta myös käänteisversio.
 
-![](/uploads/lato1.jpg)
+![](/uploads/lato2.jpg)
 
 Optinen sekoittuminen – Bezoldin efekti
 
