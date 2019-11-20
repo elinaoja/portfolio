@@ -12,19 +12,15 @@ Tehtävä 1: Värien muuntautumiskyky ja suhteellisuus
 
 Tehtävä 2: Valon intensiteetti, valoisuus
 
-Tehtävän tarkoituksena oli opetella hahmottamaan värien tummuuseroja kolmen kahden värin kuvasarjan avulla. Kuvassa vasemmalla kaksi tummaa sävyä. Keskellä kirkkaita keskisävyn vastavärejä. Oikella vaaleita sukulaisvärejä.
+![](/uploads/väripalikat2.jpg)
 
-![](/uploads/eropalikat.jpg)
+Tehtävän tarkoituksena oli opetella hahmottamaan värien tummuuseroja kolmen kahden värin kuvasarjan avulla. Kuvassa vasemmalla kaksi tummaa sävyä. Keskellä kirkkaita keskisävyn vastavärejä. Oikella vaaleita sukulaisvärejä.
 
 Tehtävä 3: Valoisuuden asteittainen muuttaminen – harmaa-asteikko
 
 Tehtävässä on etsitty väripakasta seitsemän valoisuudeltaan tasaisesti etenevää harmaasävyä.
 
 ![](/uploads/harmaasävypieni.jpg)
-
-Tehtävä 4: Värin intensiteetti - kirkkaus
-
-Valitsimme yhden värin eri sävyjä ja järjestimme ne siten, että kirkkain väri on vasemmalla ja murretuin oikealla.
 
 Tehtävä 5:
 
@@ -94,10 +90,8 @@ Optinen sekoittuminen – Bezoldin efekti
 
 Kaksi tai useampia samanaikaisesti havaittavia värejä sulautuvat yhdeksi uudeksi väriksi. Kantavärit mitätöityvät.
 
+![](/uploads/bezoldinefekti.jpg)
+
 Vrt pointtillismi.
 
 Tehtävä 12: Luo Bezoldin efekti neljällä värisarjalla, jossa käytätä viittä eri väriä. Poista jokaisessa väritilasta yksi väri ja korvaa se uudella. Miten väritilat muuttuvat yhden värin vaihtuessa?
-
-![](/uploads/matot.jpg)
-
-![](/uploads/matot-1.jpg)
