@@ -19,3 +19,13 @@ Kotitehtävät
 ![](/uploads/kädetjalat.jpg)
 
 ![](/uploads/piirustus_karhu.jpg)
+
+Genius loci
+
+![](/uploads/c_pieni.jpg)
+
+![](/uploads/kipsitussipieni.jpg)
+
+![](/uploads/geniuslocipieni.jpg)
+
+pastelli, tussi, photoshop
