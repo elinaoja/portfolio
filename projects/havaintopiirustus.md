@@ -8,6 +8,10 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+Mihin jäin vuonna 2016
+
+![](/uploads/piirustus_2016_alastom.jpg)
+
 Nopeat piirrokset elävän mallin kanssa
 
 ![](/uploads/nopeat.jpg)
