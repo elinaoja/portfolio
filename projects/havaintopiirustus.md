@@ -28,6 +28,8 @@ Kotitehtävät
 
 ![](/uploads/piirustus_karhu.jpg)
 
+![](/uploads/ilmeet.jpg)
+
 Genius loci
 
 ![](/uploads/c_pieni.jpg)
@@ -41,3 +43,7 @@ pastelli, tussi, photoshop
 ipad
 
 ![](/uploads/aula.jpg)
+
+![](/uploads/hiili290319.jpg)
+
+![](/uploads/3hahmoa_pieni.jpg)
