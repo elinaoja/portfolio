@@ -12,6 +12,8 @@ Mihin jäin vuonna 2016
 
 ![](/uploads/piirustus_2016_alastom.jpg)
 
+![](/uploads/piirustus_alien.jpg)
+
 Nopeat piirrokset elävän mallin kanssa
 
 ![](/uploads/nopeat.jpg)
