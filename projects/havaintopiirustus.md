@@ -35,3 +35,7 @@ Genius loci
 ![](/uploads/geniuslocipieni.jpg)
 
 pastelli, tussi, photoshop
+
+ipad
+
+![](/uploads/aula.jpg)
