@@ -12,8 +12,6 @@ Mihin jäin vuonna 2016
 
 ![](/uploads/piirustus_2016_alastom.jpg)
 
-![](/uploads/piirustus_alien.jpg)
-
 ![](/uploads/naiset.jpg)
 
 Nopeat piirrokset elävän mallin kanssa
