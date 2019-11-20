@@ -8,6 +8,14 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-havaintopiirustus
+Nopeat piirrokset elävän mallin kanssa
+
+![](/uploads/nopeat.jpg)
+
+Hämärät olosuhteet, isot pinnat + nopeat vaihdot, ei aikaa miettiä, eri väripohjat/tunnelmat/teemat. Mitä opin? En ehkä päässyt ihan kyytiin alussa. Piirtäminen haaste pitkän tauon jälkeen.
+
+Kotitehtävät
 
 ![](/uploads/kädetjalat.jpg)
+
+![](/uploads/piirustus_karhu.jpg)
