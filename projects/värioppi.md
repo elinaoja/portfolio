@@ -12,9 +12,9 @@ Tehtävä 1: Värien muuntautumiskyky ja suhteellisuus
 
 Tehtävä 2: Valon intensiteetti, valoisuus
 
-![](/uploads/väripalikat2.jpg)
-
 Tehtävän tarkoituksena oli opetella hahmottamaan värien tummuuseroja kolmen kahden värin kuvasarjan avulla. Kuvassa vasemmalla kaksi tummaa sävyä. Keskellä kirkkaita keskisävyn vastavärejä. Oikella vaaleita sukulaisvärejä.
+
+![](/uploads/väripalikat2.jpg)
 
 Tehtävä 3: Valoisuuden asteittainen muuttaminen – harmaa-asteikko
 
