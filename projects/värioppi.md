@@ -99,3 +99,5 @@ Vrt pointtillismi.
 Tehtävä 12: Luo Bezoldin efekti neljällä värisarjalla, jossa käytätä viittä eri väriä. Poista jokaisessa väritilasta yksi väri ja korvaa se uudella. Miten väritilat muuttuvat yhden värin vaihtuessa?
 
 ![](/uploads/matot.jpg)
+
+![](/uploads/matot-1.jpg)
