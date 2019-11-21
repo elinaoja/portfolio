@@ -1,7 +1,7 @@
 ---
 date: 2019-11-21
 thumbnail: "/uploads/teshima1.jpg"
-title: museokäynnit
+title: Museokäynnit – Japani
 categories:
 - museo
 project_bg_color: ''
