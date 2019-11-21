@@ -9,6 +9,10 @@ project_fg_color: ''
 order: 5
 
 ---
+## Pointillismia Seminaarinmäellä
+
+![](/uploads/pointalkuperpieni.jpg)
+
 njkdönj
 
 ![](/uploads/kannutyövaihepieni.jpg)
