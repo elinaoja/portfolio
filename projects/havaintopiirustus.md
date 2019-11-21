@@ -29,6 +29,10 @@ Tietäisipä Pertti, kuinka haastavan tilanteen järjesti, kun pisti tilan häm�
 
 ![](/uploads/kädetjalat.jpg)
 
+Loistava kotiläksy! Elävää mallia piirtäessä saatan jättää kädet ja jalat jopa piirtämättä, koska aika ei useimmiten riitä ja koska ajattelen, että en osaa. (Osaanhan minä jos on aikaa katsoa.) 
+
+Valitsin aluksi työvälineeksi pehmeän lyijykynän, jolla tein suht karkeita luonnoksia. Olin tyytymätön tuloksiin, sillä mielestäni minun olisi osattava katsoa jo tarkemmin. Miksi en tavoita yksityiskohtia? Tuntuu kuin en van näkisi niitä, en vaikka kuinka yritän. Puolivahingossa jatkoin työskentelyä lyijytäytekynällä ja johan alkoi näkökyky tarkentua! Mikä oivallus: Jos haluan nähdä tarkasti jotain, tarvitsen tarkan piirtimen.
+
 ![](/uploads/piirustus_karhu.jpg)
 
 ![](/uploads/ilmeet.jpg)
