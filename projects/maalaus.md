@@ -22,3 +22,7 @@ njkdönj
 ## "Oma työ"
 
 ![](/uploads/tmkollaasi.jpg)
+
+![](/uploads/tikkumetsä2pieni.jpg)
+
+![](/uploads/lähitämätmpieni.jpg)![](/uploads/lähi1tmpieni.jpg)
