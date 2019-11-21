@@ -19,6 +19,8 @@ order: 5
 
 ## "Oma työ"
 
+![](/uploads/metsäpieni.jpg)
+
 ![](/uploads/tmkollaasi.jpg)
 
 ![](/uploads/tikkumetsä2pieni.jpg)
