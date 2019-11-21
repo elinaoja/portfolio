@@ -6,6 +6,7 @@ categories:
 - Värioppi
 project_bg_color: ''
 project_fg_color: ''
+order: 3
 
 ---
 Tehtävä 1: Värien muuntautumiskyky ja suhteellisuus

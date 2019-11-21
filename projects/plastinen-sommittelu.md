@@ -6,6 +6,7 @@ categories:
 - plastinen sommittelu
 project_bg_color: ''
 project_fg_color: ''
+order: 2
 
 ---
 ## Puu

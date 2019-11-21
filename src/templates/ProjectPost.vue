@@ -25,6 +25,7 @@ query ProjectPost ($path: String!) {
     categories
     project_bg_color
     project_fg_color
+    order
   }
 }
 </page-query>

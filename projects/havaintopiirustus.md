@@ -6,6 +6,7 @@ categories:
 - havaintopiirustus
 project_bg_color: ''
 project_fg_color: ''
+order: 4
 
 ---
 ## Tähän minä jäin

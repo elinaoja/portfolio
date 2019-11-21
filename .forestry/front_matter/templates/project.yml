@@ -35,6 +35,9 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- type: number
+  name: Order number
+  label: Order number
 pages:
 - projects/maalaus.md
 - projects/värioppi.md

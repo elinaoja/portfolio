@@ -9,7 +9,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost {
+	projects: allProjectPost(sortBy: "order") {
     edges {
       node {
         id
@@ -18,6 +18,7 @@ query Posts {
         categories
         thumbnail (quality: 90)
         path
+        order
       }
     }
   }
