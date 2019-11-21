@@ -68,8 +68,12 @@ Tämän aika ei ollut vielä, mutta haluan kuvan muistiin portfoliooni. Aion pal
 
 ## Takaisin elävään malliin
 
+Ihmiskeho on loputon aihe, jonka alkumetrejä on suostuttava kulkemaan melko kauan. Alla olevaa kuvaa katsoessani mietin, että opettelen vasta näkemään. Muistan mallin silmieni edessä, kuinka paino oli taaimmaisella jalalla eikä suinkaan noin edessä. Taisin taas hermoilla jonkun yksityiskohdan kanssa, katsoa liian läheltä. Kenties omat olakapäät nousivat jo korviin enkä osannut siirtää painontuntua kuvaankaan. Mutta sain kuvan paperille. Ja melkein valmiiksi!
+
 ![](/uploads/hiilipieni.jpg)
 
-Marjo Autio-Hiltunen
+Pidän Marjo Autio-Hiltusen opetustyylistä. Hän osaa ohjata rauhallisesti, ja keskittyneesti. Hän ymmärtää kaltaiseni epävarman piistäjän kompuroinnin, tai siltä ainakin tuntuu. Tuki tulee oikeaan kohtaan.
 
-![](/uploads/3hahmoa_pieni.jpg)
+Tehdessämme piirustusta, jossa malli vaihtoi paikkaa tilassa, aloin päästä jyvälle jostain uudesta. Luulen että kyseessä on kontrollin laukeaminen, joka antoi lisää tilaa itse tekemiselle. Istuvan hahmon kanssa aloin olla jo hyvin väsynyt ja piirtäminen lähti herpaantumaan.
+
+![](/uploads/3hahmoa_portfoliopieni.jpg)
