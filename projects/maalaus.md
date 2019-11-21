@@ -11,3 +11,5 @@ project_fg_color: ''
 njkdönj
 
 ![](/uploads/kannutyövaihepieni.jpg)
+
+![](/uploads/kannuvalmispieni.jpg)
