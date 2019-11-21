@@ -1,6 +1,6 @@
 ---
 date: 2019-11-06
-thumbnail: "/uploads/plastinen-1.jpg"
+thumbnail: "/uploads/oksamvpieni.jpg"
 title: Plastinen sommittelu
 categories:
 - plastinen sommittelu
