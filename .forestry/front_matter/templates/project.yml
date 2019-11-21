@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/museokäynnit.md
 - projects/maalaus.md
 - projects/grafiikka.md
 - projects/havaintopiirustus.md
