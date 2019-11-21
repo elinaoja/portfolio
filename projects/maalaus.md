@@ -16,3 +16,7 @@ njkdönj
 ![](/uploads/kannutyövaihepieni.jpg)
 
 ![](/uploads/kannuvalmispieni.jpg)
+
+## "Oma työ"
+
+![](/uploads/tmkollaasi.jpg)
