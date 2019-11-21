@@ -9,9 +9,13 @@ project_fg_color: ''
 
 ---
 
-Mihin jäin vuonna 2016
+Kuvataiteiden perusopintoni keskeytyivät vuonna 2016 havaintopiirustuksen opintojen aikaan. Tämä työ oli viimeinen, jonka tein. Sitten sairastuin ja vietin useita viikkoja sairaalassa. 
+
+Muistaakseni kuvapinta mustattiin ensiksi hiilellä kokonaan ja valokohtia lähdettiin kaivelemaan säämiskällä esiin. Pidin tästä käänteisestä tavasta työstää kuvapintaa, sillä se antoi tilaa nähdä uudella tavalla. 
 
 ![](/uploads/piirustus_2016_alastom.jpg)
+
+Minulla on lukuisia kompastuskiviä piirtämisen äärellä. Yksi niistä on liika yrittäminen. Usein yrittämiseen liittyy pyrkimys jäljentää olemassaolevaa jonkin objektiivisen totuuden mukaisesti. Ajatus on outo, sillä minun silmäni ja kehoni näkevät ja kokevat kaiken juuri omalla tavallaan. Silmä-aivo-käsi -yhteys toimii jokaisella eri tavalla ja se juuri tekee piirtämisestä hienoa. Kuitenkin takaraivossa jyskyttää ajatus siitä, että on olemassa jokin yksi oikea ratkaisu, jota kohden pitäisi mennä. Huomaan joutuvani aina hentoiseen hätätilaan anatomian jäsentelyn kanssa, toisaalta jossain kohdin pystyn päästämään hiukan irti ja nauttimaan. Haluaisin oppia nauttimaan enemmän.
 
 Nopeat piirrokset elävän mallin kanssa
 
