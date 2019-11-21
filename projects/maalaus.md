@@ -22,3 +22,7 @@ order: 5
 ![](/uploads/tmkollaasi.jpg)
 
 ![](/uploads/tikkumetsä2pieni.jpg)
+
+![](/uploads/tmkollaasipieni.jpg)
+
+![](/uploads/tikkumetsä_tussipieni.jpg)
