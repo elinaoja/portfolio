@@ -1,6 +1,6 @@
 ---
 date: 2019-11-21
-thumbnail: "/uploads/harakkapieni.jpg"
+thumbnail: "/uploads/iltavalokeskenpieni.jpg"
 title: Maalaus
 categories:
 - maalaus
