@@ -13,8 +13,6 @@ order: 5
 
 ![](/uploads/point1pieni.jpg)
 
-njkdönj
-
 ![](/uploads/kannutyövaihepieni.jpg)
 
 ![](/uploads/kannuvalmispieni.jpg)
@@ -24,5 +22,3 @@ njkdönj
 ![](/uploads/tmkollaasi.jpg)
 
 ![](/uploads/tikkumetsä2pieni.jpg)
-
-![](/uploads/lähitämätmpieni.jpg)![](/uploads/lähi1tmpieni.jpg)
