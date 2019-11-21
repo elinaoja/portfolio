@@ -9,7 +9,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost(sortBy: "order") {
+	projects: allProjectPost(sortBy: "order", order: ASC) {
     edges {
       node {
         id
