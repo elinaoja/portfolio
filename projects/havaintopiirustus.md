@@ -8,12 +8,11 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+## Tähän minä jäin
 
-## Tähän jäin vuonna 2016
+Kuvataiteiden perusopintoni keskeytyivät vuonna 2016 havaintopiirustuksen opintojen aikaan. Tämä työ oli viimeinen, jonka tein. Sitten sairastuin ja vietin useita viikkoja sairaalassa. Palatessani takaisin piirtämisen äärelle 2019 alkuvuodesta olin jäässä. Ensimmäinen viikonloppu taisi mennä aika usvassa ja olin aivan uupunut kaikesta uudesta; heittäytymisyrityksistä, ihmisistä, intensiivisestä katsomisesta, silmä-käsi -yhteyden kankeudesta.
 
-Kuvataiteiden perusopintoni keskeytyivät vuonna 2016 havaintopiirustuksen opintojen aikaan. Tämä työ oli viimeinen, jonka tein. Sitten sairastuin ja vietin useita viikkoja sairaalassa. Palatessani takaisin piirtämisen äärelle 2019 alkuvuodesta olin jäässä. Ensimmäinen viikonloppu taisi mennä aika usvassa ja olin aivan uupunut kaikesta uudesta; heittäytymisyrityksistä, ihmisistä, intensiivisestä katsomisesta, silmä-käsi -yhteyden kankeudesta. 
-
-Tässä viimeiseksi jääneessä työssä kuvapinta mustattiin ensiksi hiilellä kokonaan ja valokohtia lähdettiin kaivelemaan säämiskällä esiin. Pidin tästä käänteisestä tavasta työstää kuvapintaa, sillä se antoi tilaa nähdä uudella tavalla. 
+Tässä viimeiseksi jääneessä työssä kuvapinta mustattiin ensiksi hiilellä kokonaan ja valokohtia lähdettiin kaivelemaan säämiskällä esiin. Pidin tästä käänteisestä tavasta työstää kuvapintaa, sillä se antoi tilaa nähdä uudella tavalla.
 
 ![](/uploads/piirustus_2016_alastom.jpg)
 
@@ -23,13 +22,13 @@ Minulla on lukuisia kompastuskiviä piirtämisen äärellä. Yksi niistä on lii
 
 ![](/uploads/nopeat.jpg)
 
-Tietäisipä Pertti, kuinka haastavan tilanteen järjesti, kun pisti tilan hämäräksi ja musiikit soimaan ja käski tehdä isoja nopeita piirroksia elävän mallin mukaan. (Minulla on huono hämäränäkö ja työskentelen hitaasti.) Kokemus oli alkuun järkyttävä, loppua kohti sulava, ja viimeisen viivan kohdalla arasti sujuva. Siihen työskentely lopetettiin, laitettiin valot päälle ja kivuliaasti katsottiin kaikkien työt läpi yksitellen. Ymmärrän Pertin pointin: Tällaista me tarvitsemme, jotta pääsisimme irti itsestämme. 
+Tietäisipä Pertti, kuinka haastavan tilanteen järjesti, kun pisti tilan hämäräksi ja musiikit soimaan ja käski tehdä isoja nopeita piirroksia elävän mallin mukaan. (Minulla on huono hämäränäkö ja työskentelen hitaasti.) Kokemus oli alkuun järkyttävä, loppua kohti sulava, ja viimeisen viivan kohdalla arasti sujuva. Siihen työskentely lopetettiin, laitettiin valot päälle ja kivuliaasti katsottiin kaikkien työt läpi yksitellen. Ymmärrän Pertin pointin: Tällaista me tarvitsemme, jotta pääsisimme irti itsestämme.
 
 ## Käsien, jalkojen ja ilmeiden tutkiminen
 
 ![](/uploads/kädetjalat.jpg)
 
-Loistava kotiläksy! Elävää mallia piirtäessä saatan jättää kädet ja jalat jopa piirtämättä, koska aika ei useimmiten riitä ja koska ajattelen, että en osaa. (Osaanhan minä jos on aikaa katsoa.) 
+Loistava kotiläksy! Elävää mallia piirtäessä saatan jättää kädet ja jalat jopa piirtämättä, koska aika ei useimmiten riitä ja koska ajattelen, että en osaa. (Osaanhan minä jos on aikaa katsoa.)
 
 Valitsin aluksi työvälineeksi pehmeän lyijykynän, jolla tein suht karkeita luonnoksia. Olin tyytymätön tuloksiin, sillä mielestäni minun olisi jaksettava katsoa jo tarkemmin. Miksi en tavoita yksityiskohtia? Tuntuu kuin en van näkisi niitä, en vaikka kuinka yritän. Puolivahingossa jatkoin työskentelyä lyijytäytekynällä ja johan alkoi näkökyky tarkentua! Mikä oivallus: Jos haluan nähdä tarkasti jotain, tarvitsen tarkan piirtimen.
 
@@ -37,13 +36,13 @@ En erityisemmin ihaile tarkkoja piirroksia, vaikka näin aloittelijana saatan om
 
 ![](/uploads/ilmeet.jpg)
 
-Pertiltä saimme kotiläksyksi myös ilmeen. Olen käsitellyt kuvaa Photoshopissa pohtien, miltä luonnos näyttäisi esimerkiksi grafiikanvedoksena. 
+Pertiltä saimme kotiläksyksi myös ilmeen. Olen käsitellyt kuvaa Photoshopissa pohtien, miltä luonnos näyttäisi esimerkiksi grafiikanvedoksena.
 
 ## Keväthanki
 
-![](/uploads/piirustus_karhu.jpg)
-
 Keväthanki kuivapastelleilla oli ensimmäisiä pastellitöitäni ylipäätään. Innostuin pastellien piirtämisen ja maalaamisen välimaastoon sijoittumisesta, mattamaisesta tekstuurista sekä värien kirkkaudesta.
+
+![](/uploads/piirustus_karhupieni.jpg)
 
 ## Genius loci
 
