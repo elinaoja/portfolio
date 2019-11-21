@@ -21,13 +21,11 @@ Minulla on lukuisia kompastuskiviä piirtämisen äärellä. Yksi niistä on lii
 
 ## Nopeat tunnelmapiirrokset elävän mallin kanssa
 
-Nopeat piirrokset elävän mallin kanssa
-
 ![](/uploads/nopeat.jpg)
 
-Hämärät olosuhteet, isot pinnat + nopeat vaihdot, ei aikaa miettiä, eri väripohjat/tunnelmat/teemat. Mitä opin? En ehkä päässyt ihan kyytiin alussa. Piirtäminen haaste pitkän tauon jälkeen.
+Tietäisipä Pertti, kuinka haastavan tilanteen järjesti, kun pisti tilan hämäräksi ja musiikit soimaan ja käski tehdä isoja nopeita piirroksia elävän mallin mukaan. (Minulla on huono hämäränäkö ja työskentelen hitaasti.) Kokemus oli alkuun järkyttävä, loppua kohti sulava, ja viimeisen viivan kohdalla arasti sujuva. Siihen työskentely lopetettiin, laitettiin valot päälle ja kivuliaasti katsottiin kaikkien työt läpi yksitellen. Ymmärrän Pertin pointin: Tällaista me tarvitsemme, jotta pääsisimme irti itsestämme. 
 
-Kotitehtävät
+## Käsien ja jalkojen tutkiminen
 
 ![](/uploads/kädetjalat.jpg)
 
