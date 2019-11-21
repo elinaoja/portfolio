@@ -8,11 +8,11 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/naiset.jpg)
+
 Mihin jäin vuonna 2016
 
 ![](/uploads/piirustus_2016_alastom.jpg)
-
-![](/uploads/naiset.jpg)
 
 Nopeat piirrokset elävän mallin kanssa
 
