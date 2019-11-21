@@ -74,6 +74,12 @@ Ihmiskeho on loputon aihe, jonka alkumetrejä on suostuttava kulkemaan melko kau
 
 Pidän Marjo Autio-Hiltusen opetustyylistä. Hän osaa ohjata rauhallisesti, ja keskittyneesti. Hän ymmärtää kaltaiseni epävarman piistäjän kompuroinnin, tai siltä ainakin tuntuu. Tuki tulee oikeaan kohtaan.
 
-Tehdessämme piirustusta, jossa malli vaihtoi paikkaa tilassa, aloin päästä jyvälle jostain uudesta. Luulen että kyseessä on kontrollin laukeaminen, joka antoi lisää tilaa itse tekemiselle. Istuvan hahmon kanssa aloin olla jo hyvin väsynyt ja piirtäminen lähti herpaantumaan.
+Tehdessämme piirustusta, jossa malli vaihtoi paikkaa tilassa, aloin päästä jyvälle jostain uudesta. Luulen että kyseessä on kontrollin laukeaminen, joka antoi lisää tilaa itse tekemiselle, mikä ei ehkä vielä välity paperille. Istuvan hahmon kanssa väsyin ja piirtäminen lähti herpaantumaan. Taisin itsekin lysähtää.
 
 ![](/uploads/3hahmoa_portfoliopieni.jpg)
+
+## Lopuksi
+
+Kun katson tätä havaintopiirustuksen otsikon alle kokoamaani aineistoa, näen aika sekavan ja epäjärjestelmällisen otoksen tuotoksia. Se heijastelee suhdettani aiheeseen. Kun ryhdyn piirtämään, en tiedä miten sen tulisi tapahtua, mihin keskittyä, mitä katsoa. Olen vielä valovuosien päässä vaikkapa viivan herkkyyden hiomisesta tai muusta semmoisesta. Mutta olen myös kehityskelpoinen. Näen mielikuvissani itseni piirtämässä juuri itselleni oikein.
+
+![](/uploads/naiset.jpg)
