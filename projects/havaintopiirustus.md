@@ -54,6 +54,10 @@ Otin tarkasteluni kohteeksi ison portaikon kahvihuonetasanteen. Valitsemani paik
 
 ![](/uploads/kipsitussipieni.jpg)
 
+Antin tunneilla teimme myös tussitöitä. Itse tein kipsipään, koska ajattelin sen sopivan interiööriin. Antti nimittäin kehotti pohtimaan myös mahdollisuutta yhdistellä kahta eri tekniikkaa interiöörityössä. Ymmärsin asian siten, että tekniikoiden välinen jännite voisi tuoda työhön yllättävää mielenkiintoa. Tehtävän olisi voinut toteuttaa lukemattomin mielenkiintoisin tavoin. Päädyin kuitenkin liittämään tussityöni ehkä vähän tylsästi Photoshopilla interiöriin läpikuultavaksi hahmoksi. Näen työni luonnoksena, joka voisi olla alku isommalle työlle. Voisin viedä työtä eteenpäin sommittelua ja tekniikoiden yhdistelytapoja pohtimalla. 
+
+Työn nimi on Genius loci, paikan henki. Mielstäni C-rakennus voisi tulla nähdyksi antiikin rakennusperinteen tulkintana, paikkana jossa kipsipatsaiden hahmot tulevat vastaan kahvihuoneen kynnyksellä. 
+
 ![](/uploads/geniuslocipieni.jpg)
 
 pastelli, tussi, photoshop
