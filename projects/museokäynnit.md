@@ -9,4 +9,8 @@ project_fg_color: ''
 order: 7
 
 ---
-njkö
+## Naoshima
+
+## Chichu Art Museum
+
+## Teshima Art Museum
