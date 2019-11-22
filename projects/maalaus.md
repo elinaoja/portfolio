@@ -11,7 +11,7 @@ order: 5
 ---
 ## Pointillismia Seminaarinmäellä
 
-![](/uploads/point1pieni.jpg)
+![](/uploads/pointalkuperpieni.jpg)
 
 ![](/uploads/pointtyöpieni.jpg)
 
