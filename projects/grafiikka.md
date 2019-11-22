@@ -19,6 +19,8 @@ order: 6
 
 ![](/uploads/geppunpieni.jpg)
 
+![](/uploads/peppupieni.jpg)
+
 ## Silkkipaino
 
 ## Carborundum
