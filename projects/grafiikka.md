@@ -31,4 +31,10 @@ order: 6
 
 ## Carborundum
 
+![](/uploads/pyönel.jpg)
+
+![](/uploads/laatat.jpg)
+
+![](/uploads/puu.jpg)
+
 ## Pehmeäpohja
