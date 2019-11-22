@@ -11,6 +11,8 @@ order: 6
 ---
 ## Puupiirros
 
+![](/uploads/veisto_pieni.jpg)
+
 ## Silkkipaino
 
 ## Carborundum
