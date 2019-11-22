@@ -1,6 +1,6 @@
 ---
 date: 2019-11-12
-thumbnail: "/uploads/värihippupieni.jpg"
+thumbnail: "/uploads/värihippucropiso.jpg"
 title: Värioppi
 categories:
 - Värioppi
