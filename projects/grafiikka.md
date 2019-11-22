@@ -15,6 +15,10 @@ order: 6
 
 ![](/uploads/gepardikollaasi.jpg)
 
+![](/uploads/gepardikeltpieni.jpg)
+
+![](/uploads/geppunpieni.jpg)
+
 ## Silkkipaino
 
 ## Carborundum
