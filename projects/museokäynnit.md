@@ -14,3 +14,5 @@ order: 7
 ## Chichu Art Museum
 
 ## Teshima Art Museum
+
+## Kuusi kuvaa Japanista
