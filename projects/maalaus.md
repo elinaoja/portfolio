@@ -9,6 +9,10 @@ project_fg_color: ''
 order: 5
 
 ---
+## Harjulla vuonna 2016
+
+![](/uploads/harjukollaasi.jpg)
+
 ## Pointillismia Seminaarinmäellä
 
 ![](/uploads/pointalkuperpieni.jpg)
