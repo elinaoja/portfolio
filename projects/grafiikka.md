@@ -25,6 +25,8 @@ order: 6
 
 ![](/uploads/seripunpieni.jpg)
 
+![](/uploads/puut.jpg)
+
 ## Carborundum
 
 ## Pehmeäpohja
