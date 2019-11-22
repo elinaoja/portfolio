@@ -23,6 +23,8 @@ order: 5
 
 ![](/uploads/aamusuollapieni.jpg)
 
+![](/uploads/aamusuolla2pieni.jpg)
+
 ## Peitevärit
 
 ![](/uploads/kannutyövaihepieni.jpg)
