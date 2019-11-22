@@ -23,6 +23,8 @@ order: 6
 
 ## Silkkipaino
 
+![](/uploads/seripaino.jpg)
+
 ![](/uploads/seripunpieni.jpg)
 
 ![](/uploads/puut.jpg)
