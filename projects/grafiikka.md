@@ -40,3 +40,5 @@ order: 6
 ## Pehmeäpohja
 
 ![](/uploads/pehmeäkollaasi.jpg)
+
+![](/uploads/lehdet.jpg)
