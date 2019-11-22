@@ -1,6 +1,6 @@
 ---
 date: 2019-11-18
-thumbnail: "/uploads/croquis2.jpg"
+thumbnail: "/uploads/crquismuok.jpg"
 title: Havaintopiirustus
 categories:
 - havaintopiirustus
