@@ -35,6 +35,6 @@ order: 6
 
 ![](/uploads/laatat.jpg)
 
-![](/uploads/puu.jpg)
+![](/uploads/puut-1.jpg)
 
 ## Pehmeäpohja
