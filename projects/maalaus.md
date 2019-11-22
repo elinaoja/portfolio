@@ -13,6 +13,8 @@ order: 5
 
 ![](/uploads/pointalkuperpieni.jpg)
 
+![](/uploads/pointkollaasi2.jpg)
+
 ![](/uploads/pointtyöpieni.jpg)
 
 ![](/uploads/poinkollaasi.jpg)
