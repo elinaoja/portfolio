@@ -25,7 +25,7 @@ order: 5
 
 ## Naissaari
 
-![](/uploads/naissaaricroppieni.jpg)
+![](/uploads/naissaaripieni.jpg)
 
 ## Aamu suolla
 
@@ -36,6 +36,10 @@ order: 5
 ![](/uploads/kannutyövaihepieni.jpg)
 
 ![](/uploads/kannuvalmispieni.jpg)
+
+## Kollaasi
+
+![](/uploads/lepakkopieni.jpg)
 
 ## "Oma työ"
 
