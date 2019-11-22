@@ -23,6 +23,8 @@ order: 6
 
 ## Silkkipaino
 
+![](/uploads/seripunpieni.jpg)
+
 ## Carborundum
 
 ## Pehmeäpohja
