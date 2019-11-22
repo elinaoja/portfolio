@@ -1,6 +1,6 @@
 ---
 date: 2019-11-21
-thumbnail: "/uploads/keltgepardi.jpg"
+thumbnail: "/uploads/pehmeäcrop.jpg"
 title: Grafiikka
 categories:
 - grafiikka
