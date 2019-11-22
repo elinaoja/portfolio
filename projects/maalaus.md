@@ -19,6 +19,10 @@ order: 5
 
 ![](/uploads/poinkollaasi.jpg)
 
+## Aamu suolla
+
+![](/uploads/aamusuollapieni.jpg)
+
 ## Peitevärit
 
 ![](/uploads/kannutyövaihepieni.jpg)
