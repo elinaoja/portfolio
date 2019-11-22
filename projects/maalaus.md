@@ -25,8 +25,6 @@ order: 5
 
 ## Aamu suolla
 
-![](/uploads/aamusuollapieni.jpg)
-
 ![](/uploads/aamusuolla2pieni.jpg)
 
 ## Peitevärit
