@@ -15,6 +15,8 @@ order: 5
 
 ![](/uploads/pointtyöpieni.jpg)
 
+![](/uploads/poinkollaasi.jpg)
+
 ## Peitevärit
 
 ![](/uploads/kannutyövaihepieni.jpg)
