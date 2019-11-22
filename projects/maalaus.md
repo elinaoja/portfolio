@@ -13,6 +13,10 @@ order: 5
 
 ![](/uploads/point1pieni.jpg)
 
+![](/uploads/pointtyöpieni.jpg)
+
+## Peitevärit
+
 ![](/uploads/kannutyövaihepieni.jpg)
 
 ![](/uploads/kannuvalmispieni.jpg)
