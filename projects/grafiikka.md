@@ -13,6 +13,8 @@ order: 6
 
 ![](/uploads/veisto_pieni.jpg)
 
+![](/uploads/gepardikollaasi.jpg)
+
 ## Silkkipaino
 
 ## Carborundum
