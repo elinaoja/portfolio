@@ -38,3 +38,5 @@ order: 6
 ![](/uploads/puut-1.jpg)
 
 ## Pehmeäpohja
+
+![](/uploads/pehmeäkollaasi.jpg)
