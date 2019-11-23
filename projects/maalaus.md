@@ -11,7 +11,7 @@ order: 5
 ---
 ## Harjulla vuonna 2016
 
-![](/uploads/harjukollaasi.jpg)
+![](/uploads/harjukollaasi.jpg)Olen hakenut inspiraation maalaukseen Harjun tornin kattoterassilta avautuvista maisemista. Työssä olen tutkinut ilmaperspektiiviä ja veden heijastuksia. Maisemaan sijoittuvan rakennuksen työstäminen jäi kesken. Olisin voinut jättää rakennuksen myös pois, mutta mielestäni se tuo kontrastia luonnonympäristön orgaanisiin muotoihin. Minua kiinnostaa arkkitehtuuri myös itsessään, ja tässä työssä erityisesti ajatus rakennuksesta avautuvista maisemista.   
 
 ## Pointillismia Seminaarinmäellä
 
