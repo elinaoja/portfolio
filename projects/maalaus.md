@@ -27,30 +27,44 @@ order: 5
 
 ![](/uploads/naissaaripieni.jpg)
 
-Hellepäivä osoittautui minulle fyysisesti raskaaksi ja se näkyy maalauksessa. En jaksanut nähdä kunnolla.
-
 ## Aamu suolla
 
 ![](/uploads/aamusuolla2pieni.jpg)
 
-## Peitevärit
+Tätä työtä oli mukava tehdä. Inspiraationa toiminut retki suolle oli elävästi mielessä maalatessa. Tein työn kokonaan valokuvan perusteella.
+
+## Peiteväri eli guassi
 
 ![](/uploads/kannutyövaihepieni.jpg)
 
 ![](/uploads/kannuvalmispieni.jpg)
 
+Peitevärit olivat minulle uusi tuttavuus, enkä ole vielä päässyt niiden kanssa ihan sinuiksi. Ne avasivat minulle kuitenkin uuden näkökulman niin ikään etäisiksi jääneisiin akvarelleihin ja aloinkin näkemään syvyysvärit uutena mahdollisuutena. Työssä on käytetty myös pastelliliituja. Ehkä tämän työn ansiosta sovelsin näitä myös maalauskurssin "omaan työhön". 
+
 ## Kollaasi
 
 ![](/uploads/lepakkopieni.jpg)
 
+Kollaasi on vuodelta 2016. Tein sen Antti Lokan tunnilla eräänlaisena terapiatyönä itselleni. Talossamme asusti tuohon aikaan lepakkoyhdyskunta, ja halusin tuoda aiheen satukirjamaisesti lähestyttävämpään muotoon itselleni. Kuva on kuviteltu näkymä olohuoneemme ilmastointikanavassa, jossa asusti vikinästä päätellen tuohon aikaan ilmeisesti useampikin lepakkoyksilö. Kuvan teepannu on kuivaneulatyö ja seinällä roikkuva huoneentaulu silkkipainomenetelmällä tehty. Olen tyytyväinen erityisesti lattian ulkonäköön.
+
 ## "Oma työ"
+
+Tässä työssä halusin pohtia maisema-aihetta uudesta abstraktimmasta näkökulmasta. Alla oleva kuva pulpahti mieleeni aihetta pohtiessani. 
 
 ![](/uploads/metsäpieni.jpg)
 
+Kuva on napattu Venetsian arkkitehtuuribiennaalissa, 2018. Arkkitehtien käyttämät pienoismallit ovat mielestäni varsin kiinnostavia, sillä ne paketoivat ympäristöä erikoisiksi kolmiulotteisiksi pienoismaailmoiksi. Niillä on tarkoitus ottaa ihmisen mittakaavassa isoa ja vaikeasti hahmottuvaa kokonaisuutta haltuun. Samalla niiden kautta saatu näkökulma on ihmiselle täysin vieras, ihmiskehosta etääntynyt. 
+
 ![](/uploads/tmkollaasi.jpg)
+
+Pohjustin työn akvarelliväreillä. Maalasin paperia peitevärein ja leikkasin siitä liuskoja, joista sommittelin metsän ja puiden varjot. Maalasin lisää kerroksia ja viimeistelin pastellivärein. Halusin jättää keskelle työtä aukion, jolle pienet ihmishahmot ovat saapuneet. Hahmot tuovat työn mittakaavaan jännitettä. 
 
 ![](/uploads/tikkumetsä2pieni.jpg)
 
 ![](/uploads/tmkollaasipieni.jpg)
 
+Työtä voisi jalostaa tietoisemmalla ja kiinnostavammalla värisuunnittelulla. Myös varjojen lankeamissuunnat ovat paikoin erikoisia. Työ on kuitenkin hyvä pohja monenlaiselle leikittelylle ja kokeilulle. Eräänlainen näyttämö, jota voin hyödyntää jatkossakin.
+
 ![](/uploads/tikkumetsä_tussipieni.jpg)
+
+Toteutin aiheesta toisen version tussilla.
