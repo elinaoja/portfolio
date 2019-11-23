@@ -1,7 +1,7 @@
 ---
 date: 2019-11-21
 thumbnail: "/uploads/teshimapisarat.jpg"
-title: Museokäynnit – Japani
+title: Minä ja taide – Museokäynnit – Japani
 categories:
 - museo
 project_bg_color: ''
