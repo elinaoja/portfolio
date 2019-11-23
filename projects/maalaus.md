@@ -21,15 +21,13 @@ order: 5
 
 ![](/uploads/pointtyöpieni.jpg)
 
-![](/uploads/poinkollaasi.jpg)Tämän työn parissa opin paljon. 
-
-Ensinnäkin sen, että nykyajan hyttysmyrkyt ovat todella tehokkaita. 
-
-Pointillistinen lähestymistapa herätti aluksi vastustusta, mutta työn edetessä ymmärsin, miten eri värit herättävät toisiaan loistamaan. Ja sitten tein sen saman virheen, jonka teen usein; sokaistuin omalle tekemiselleni ja tukin kuvapinnan liian täyteen. Työstämisvaiheen kuvissa on vielä säkenöintiä, mutta lopputuloksessa on liikaa tavaraa ja punainen hehku on menetetty. Katsojalle ei todellakaan jätetä mitään, kaikki on ajateltu loppuun ja sen yli. Opin, että minun on pidettävä paljon taukoja tekemisessä, sillä muuten sokaistun. Olisin myös rohkeammin voinut lähteä kokeilemaan puhteempien värien käyttöä ja katsoa, miten ne lähtevät toimimaan yhdessä. Pidän työssä taivaan ja tien vaaleanpunaisista sävyistä. Sekä pihlajasta.
+![](/uploads/poinkollaasi.jpg)Tämän työn parissa opin paljon. Pointillistinen lähestymistapa herätti aluksi vastustusta, mutta työn edetessä ymmärsin, miten eri värit herättävät toisiaan loistamaan. Ja sitten tein sen saman virheen, jonka teen usein; sokaistuin omalle tekemiselleni ja tukin kuvapinnan liian täyteen. Työstämisvaiheen kuvissa on vielä säkenöintiä, mutta lopputuloksessa on liikaa tavaraa ja punainen hehku on menetetty. Katsojalle ei todellakaan jätetä mitään arvailujen varaan, kaikki on ajateltu loppuun ja sen yli. Opin, että minun on pidettävä paljon taukoja tekemisessä, jotta nähty menee ymmärryksen tasolle. Olisin myös rohkeammin voinut lähteä kokeilemaan puhtaampien värien käyttöä ja katsoa, miten ne lähtevät toimimaan yhdessä. Pidän työssä taivaalla ja tiessä säilyneistä vaaleanpunaisista sävyistä. Sekä pihlajan lehtimuodosta.
 
 ## Naissaari
 
 ![](/uploads/naissaaripieni.jpg)
+
+Hellepäivä osoittautui minulle fyysisesti raskaaksi ja se näkyy maalauksessa. En jaksanut nähdä kunnolla.
 
 ## Aamu suolla
 
