@@ -31,7 +31,7 @@ order: 5
 
 ![](/uploads/aamusuolla2pieni.jpg)
 
-Tätä työtä oli mukava tehdä. Inspiraationa toiminut retki suolle oli elävästi mielessä maalatessa. Tein työn kokonaan valokuvan perusteella.
+Inspiraationa toiminut retki suolle oli elävästi mielessä maalatessa. Tein työn kokonaan valokuvan perusteella kotona.
 
 ## Peiteväri eli guassi
 
@@ -39,13 +39,13 @@ Tätä työtä oli mukava tehdä. Inspiraationa toiminut retki suolle oli eläv�
 
 ![](/uploads/kannuvalmispieni.jpg)
 
-Peitevärit olivat minulle uusi tuttavuus, enkä ole vielä päässyt niiden kanssa ihan sinuiksi. Ne avasivat minulle kuitenkin uuden näkökulman niin ikään etäisiksi jääneisiin akvarelleihin ja aloinkin näkemään syvyysvärit uutena mahdollisuutena. Työssä on käytetty myös pastelliliituja. Ehkä tämän työn ansiosta sovelsin näitä myös maalauskurssin "omaan työhön". 
+Peitevärit olivat minulle uusi tuttavuus, enkä ole vielä päässyt niiden kanssa ihan sinuiksi. Ne avasivat minulle kuitenkin uuden näkökulman niin ikään etäisiksi jääneisiin akvarelleihin ja aloinkin näkemään syvyysvärit uutena mahdollisuutena. Työssä on käytetty myös pastelliliituja. Tämän kokeilun ansiosta sovelsin samoja materiaaleja myös maalauskurssin "omaan työhön". 
 
 ## Kollaasi
 
 ![](/uploads/lepakkopieni.jpg)
 
-Kollaasi on vuodelta 2016. Tein sen Antti Lokan tunnilla eräänlaisena terapiatyönä itselleni. Talossamme asusti tuohon aikaan lepakkoyhdyskunta, ja halusin tuoda aiheen satukirjamaisesti lähestyttävämpään muotoon itselleni. Kuva on kuviteltu näkymä olohuoneemme ilmastointikanavassa, jossa asusti vikinästä päätellen tuohon aikaan ilmeisesti useampikin lepakkoyksilö. Kuvan teepannu on kuivaneulatyö ja seinällä roikkuva huoneentaulu silkkipainomenetelmällä tehty. Olen tyytyväinen erityisesti lattian ulkonäköön.
+Kollaasi on vuodelta 2016. Tein sen Antti Lokan tunnilla eräänlaisena terapiatyönä itselleni. Talossamme asusti tuohon aikaan lepakkoyhdyskunta, ja halusin tuoda aiheen satukirjamaisesti lähestyttävämpään muotoon itselleni. Kuva on kuviteltu näkymä olohuoneemme ilmastointikanavassa, jossa asusti vikinästä päätellen tuohon aikaan useampikin lepakkoyksilö. Kuvan teepannu on kuivaneulatyö ja seinällä roikkuva huoneentaulu silkkipainomenetelmällä tehty. Olen tyytyväinen erityisesti lattian ulkonäköön.
 
 ## "Oma työ"
 
@@ -57,7 +57,7 @@ Kuva on napattu Venetsian arkkitehtuuribiennaalissa, 2018. Arkkitehtien käyttä
 
 ![](/uploads/tmkollaasi.jpg)
 
-Pohjustin työn akvarelliväreillä. Maalasin paperia peitevärein ja leikkasin siitä liuskoja, joista sommittelin metsän ja puiden varjot. Maalasin lisää kerroksia ja viimeistelin pastellivärein. Halusin jättää keskelle työtä aukion, jolle pienet ihmishahmot ovat saapuneet. Hahmot tuovat työn mittakaavaan jännitettä. 
+Pohjustin työn akvarelliväreillä. Maalasin paperia peitevärein ja leikkasin siitä liuskoja, joista sommittelin metsän ja puiden varjot. Maalasin lisää kerroksia ja viimeistelin pastellivärein. Halusin jättää keskelle maisemaa aukion, jolle pienet ihmishahmot ovat saapuneet. Hahmot tuovat mittakaavaan jännitettä. 
 
 ![](/uploads/tikkumetsä2pieni.jpg)
 
