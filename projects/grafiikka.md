@@ -42,3 +42,5 @@ order: 6
 ![](/uploads/pehmeäkollaasi.jpg)
 
 ![](/uploads/lehdet.jpg)
+
+![](/uploads/vihreälehticrop.jpg)
