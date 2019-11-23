@@ -29,6 +29,10 @@ order: 6
 
 ![](/uploads/puut.jpg)
 
+## Kuivaneula
+
+![](/uploads/kuivat.jpg)
+
 ## Carborundum
 
 ![](/uploads/pyönel.jpg)
