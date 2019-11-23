@@ -39,8 +39,8 @@ fields:
   name: order
   label: Order number
 pages:
-- projects/kuvan-rakentaminen.md
 - projects/museokäynnit.md
+- projects/kuvan-rakentaminen.md
 - projects/grafiikka.md
 - projects/havaintopiirustus.md
 - projects/värioppi.md
