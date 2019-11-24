@@ -27,7 +27,7 @@ Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa,
 
 ![](/uploads/Afrum-Pale-Blue-1968_Chichu-662x1024.jpg)
 
-_Open Sky_ (2004) osoittaa, miten Turrell on edennyt valon tutkimisessa uudelle tasolle. Teos on huone, jonka kattoon on avattu aukko. Aukosta on näkymä taivalle. Huonetta kiertävät kiinteät korkeaselkäiset kivipenkit, joilla ihmiset istuvat katsomassa teosta. Huone on valaistu led- ja xenon-valoilla. Valot imitoivat taivaan värejä, matkien taivaalla alati muuttuvaa valotilannetta. Turrell maalaa valolla taivaan vaiheet arkkitehtuuriin. Väriharmonia luonnollisen ja keinotekoisen valon välillä on outo ja kiehtova. Se synnyttää intensiivisen tilallisen kokemuksen, kohtaamisen hetkellisen ja ikuisen välillä. Turrell itse kommentoi taidettaan näin: “\[My art\] is about your seeing, like wordless thought that comes from looking into fire.”
+_Open Sky_ (2004) osoittaa, miten Turrell on edennyt valon tutkimisessa uudelle tasolle. Teos on huone, jonka kattoon on avattu aukko. Aukosta on näkymä taivalle. Huonetta kiertävät kiinteät korkeaselkäiset kivipenkit, joilla ihmiset istuvat katsomassa teosta. Huone on valaistu led- ja xenon-valoilla. Valot imitoivat taivaan värejä, matkien taivaalla alati muuttuvaa valotilannetta. Turrell maalaa valolla taivaan vaiheet arkkitehtuuriin. Väriharmonia luonnollisen ja keinotekoisen valon välillä on outo ja kiehtova. Se synnyttää intensiivisen tilallisen kokemuksen, kohtaamisen hetkellisen ja ikuisen välillä. Turrell itse kommentoi taidettaan muun muassa näin: “\[My art\] is about your seeing, like wordless thought that comes from looking into fire.”
 
 ![](/uploads/open_sky_2004-699x1024.jpg)
 
