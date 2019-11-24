@@ -9,35 +9,21 @@ project_fg_color: ''
 order: 3
 
 ---
-Tehtävä 1: Värien muuntautumiskyky ja suhteellisuus
+Väriopin kurssi oli antoisa, intensiivinen ja silmiä avaava kokonaisuus. Teimme kurssin Albersin väriopin tehtävien kautta ja opettajamme Pertti Karjalaisen rautaisen väriosaamisen tukemana. Työstimme tehtäviä laadukkaan ja värivalikoimaltaan laajan väripaperipakan avulla. Työskentely vaati ja opetti katsomista, näkemistä, nähdyn ymmärtämistä ja mielikuvituksen käyttöä.
 
-Tehtävä 2: Valon intensiteetti, valoisuus
-
-Tehtävän tarkoituksena oli opetella hahmottamaan värien tummuuseroja kolmen kahden värin kuvasarjan avulla. Kuvassa vasemmalla kaksi tummaa sävyä. Keskellä kirkkaita keskisävyn vastavärejä. Oikella vaaleita sukulaisvärejä.
+Alkupään tehtävissä tarkkailimme värin suhteellisuutta; muuntautumiskykyä, valoisuutta ja sen asteittaista muuttamista. Esimerkiksi alla olevassa kuvassa on tehtävä, jossa oli pyrkimyksenä opetella hahmottamaan värien tummuuseroja kahden värin kuvasarjan avulla. Kuvassa vasemmalla kaksi tummaa sävyä. Keskellä kirkkaita keskisävyn vastavärejä. Oikella vaaleita sukulaisvärejä.
 
 ![](/uploads/väripalikat2.jpg)
 
-Tehtävä 3: Valoisuuden asteittainen muuttaminen – harmaa-asteikko
-
-Tehtävässä on etsitty väripakasta seitsemän valoisuudeltaan tasaisesti etenevää harmaasävyä.
+Valoisuuden asteittaista muuttamista tutkittiin harmaa-asteikolla. Tehtävässä on etsitty väripakasta seitsemän valoisuudeltaan tasaisesti etenevää harmaasävyä.
 
 ![](/uploads/harmaasävypieni.jpg)
 
-Tehtävä 5:
+Tehtävässä 5 tutkimme, miten yksi väri saadaan näyttämään kahdelta. Tehtävä on esimerkki värin muuntautumiskyvystä. Ihanteellinen ratkaisu syntyy jos toinen taustoista on tummempi ja toinen vaaleampi. Kuvion tulee olla valööriltään taustojen puolivälissä. Kuviossa olevan värin vahva muuntautumiskyky edellyttää, että valittu väri sisältää yhtä paljon molempia taustavärejä.
 
-## Yksi väri näyttäää kahdelta
-
-Tehtävä on esimerkki värin muuntautumiskyvystä.
-
-Ratkaisu: Toinen tausta on tummempi ja toinen vaaleampi. Kuvio on valööriltään noin taustojen puolivälissä. Ihanteellinen muutos vaatii sen, että kuvio sisältää yhtä paljon molempia taustavärejä.
-
-Pohjaväri vaikuttaa päälle asetettuun väriin siten, että se vähentää siitä omaa sävyään. Myös pohjavärin valo vähentää samalla tavoin kuin sen sävy. Tästä seuraa, että mitä tahansa sävy- tai valoisuuseroja voidaan vähentää yhdistämällä värejä taustoihin, joilla on niiden kanssa yhteisiä ominaisuuksia. 34-35
+Pohjaväri vaikuttaa päälle asetettuun väriin siten, että se vähentää siitä omaa sävyään. Myös pohjavärin valo vähentää kuvion valoa samalla tavoin kuin sen sävy. Tästä seuraa, että mitä tahansa sävy- tai valoisuuseroja voidaan vähentää yhdistämällä värejä taustoihin, joilla on niiden kanssa yhteisiä ominaisuuksia.
 
 ![](/uploads/taustavärivaikutus.jpg)
-
-Tehtävä 6: Kaksi väriä näyttää samalta – Värivähennys
-
-Etsimme kaksi väriä, jotka näyttävät samalta, kun ne sijoitetaan vierekkäisille taustaväreille. a) taustaväri ovat saman värin eri sävyjä b) taustavärit ovat kaukana toisistaan (ei sukulaisvärejä), muuttuvat värit myös kaukana taustaväreistä.
 
 Tehtävä 7:
 
