@@ -1,6 +1,6 @@
 ---
 date: 2019-11-18
-thumbnail: "/uploads/piirr_pieni.jpg"
+thumbnail: "/uploads/piirustus_kädetkk.jpg"
 title: Havaintopiirustus
 categories:
 - havaintopiirustus
