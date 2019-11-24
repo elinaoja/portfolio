@@ -9,10 +9,3 @@ project_fg_color: ''
 order: 7
 
 ---
-## Naoshima
-
-## Chichu Art Museum
-
-## Teshima Art Museum
-
-## Kuusi kuvaa Japanista
