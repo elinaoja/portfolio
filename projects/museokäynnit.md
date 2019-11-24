@@ -22,3 +22,9 @@ Naoshiman taidetoiminnan taustalla on kustantaja Tetsuhiko Fukutaken sekä Naosh
 ![](/uploads/chichu_top-thumb-1440x960-501.jpg)
 
 Vierailimme Naoshiman saarella vuonna 2004 auenneessa Chichu-taidemuseossa. Museon nimi on suomeksi käännettynä ”maan sisällä”; se on rakennettu pääasiassa sisälle vuoreen, jotta kaunis luonnonmaisema ja näkymä merelle säilyisivät. Arkkitehti **Takao Andon** suunnittelema rakennuskompleksi on itsessään merkittävä taideteos, joka nousee empimättä museon kolmen muun taiteilijan töiden rinnalle. Nämä kolme muuta ovat **Claude Monet**, **James Turrel** sekä **Walter de Maria**.
+
+Kaikki edellä luetellut taiteilijat ovat ansainneet yhtälailla huomiota, mutta kiinnitän huomioni tässä tekstissä erityisesti James Turrelin teoksiin.
+
+Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa, valoa ja havaitsemista. Chichu Art Museumissa on esillä kolme Turrellin valoa tutkivista töistä. Varhaisin teos _Afrum, Pale Blue_ toi esiin, miten Turrell jo 1960-luvulla pyrki käsittelemään valoa visuaalisena objektina, katsomisen kohteena. Normaalistihan emme oikeastaan katso valoa itseään, vaan valo toimii välineenä muiden asioideiden näkemiseen. 
+
+![](/uploads/Afrum-Pale-Blue-1968_Chichu-662x1024.jpg)
