@@ -21,10 +21,18 @@ Naoshiman taidetoiminnan taustalla on kustantaja Tetsuhiko Fukutaken sekä Naosh
 
 ![](/uploads/chichu_top-thumb-1440x960-501.jpg)
 
-Vierailimme Naoshiman saarella vuonna 2004 auenneessa Chichu-taidemuseossa. Museon nimi on suomeksi käännettynä ”maan sisällä”; se on rakennettu pääasiassa sisälle vuoreen, jotta kaunis luonnonmaisema ja näkymä merelle säilyisivät. Arkkitehti **Takao Andon** suunnittelema rakennuskompleksi on itsessään merkittävä taideteos, joka nousee empimättä museon kolmen muun taiteilijan töiden rinnalle. Nämä kolme muuta ovat **Claude Monet**, **James Turrel** sekä **Walter de Maria**.
+Vierailimme Naoshiman saarella vuonna 2004 auenneessa Chichu-taidemuseossa. Museon nimi on suomeksi käännettynä ”maan sisällä”; se on rakennettu pääasiassa sisälle vuoreen, jotta kaunis luonnonmaisema ja näkymä merelle säilyisivät. Arkkitehti **Takao Andon** suunnittelema rakennuskompleksi on itsessään merkittävä taideteos, joka nousee empimättä museon kolmen muun taiteilijan töiden rinnalle. Nämä kolme muuta ovat **Claude Monet**, **James Turrel** sekä **Walter de Maria**. Kaikki edellä luetellut taiteilijat ovat ansainneet yhtälailla huomiota, mutta kiinnitän huomioni tässä tekstissä James Turrelin teoksiin.
 
-Kaikki edellä luetellut taiteilijat ovat ansainneet yhtälailla huomiota, mutta kiinnitän huomioni tässä tekstissä erityisesti James Turrelin teoksiin.
-
-Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa, valoa ja havaitsemista. Chichu Art Museumissa on esillä kolme Turrellin valoa tutkivista töistä. Varhaisin teos _Afrum, Pale Blue_ toi esiin, miten Turrell jo 1960-luvulla pyrki käsittelemään valoa visuaalisena objektina, katsomisen kohteena. Normaalistihan emme oikeastaan katso valoa itseään, vaan valo toimii välineenä muiden asioideiden näkemiseen. 
+Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa, valoa ja havaitsemista. Chichu Art Museumissa on esillä kolme Turrellin valoa tutkivaa työtä. Varhaisin teos _Afrum, Pale Blue_ tuo esiin, miten Turrell jo 1960-luvulla pyrki käsittelemään valoa visuaalisena objektina, katsomisen kohteena. Normaalisti emme useinkaan tule katsoneeksi valoa itseään, vaan valo toimii välineenä muiden asioideiden näkemiseen. Turrellin nurkkaan projisoitu valoteos teos hahmottuu katsojalle sinertävänä ilmassa leijuvana kuutiona. Valo on objekti, jolla on massa ja joka ottaa tilan haltuunsa.
 
 ![](/uploads/Afrum-Pale-Blue-1968_Chichu-662x1024.jpg)
+
+_Open Sky_ (2004) osoittaa, miten Turrell on edennyt valon tutkimisessa uudelle tasolle. Teos on huone, jonka kattoon on avattu aukko. Aukosta on näkymä taivalle. Huonetta kiertävät kiinteät korkeaselkäiset kivipenkit, joilla ihmiset istuvat katsomassa teosta. Huone on valaistu led- ja xenon-valoilla. Valot imitoivat taivaan värejä, matkien taivaalla alati muuttuvaa valotilannetta. Turrell maalaa valolla taivaan vaiheet arkkitehtuuriin. Väriharmonia luonnollisen ja keinotekoisen valon välillä on outo ja kiehtova. Se synnyttää intensiivisen tilallisen kokemuksen, kohtaamisen hetkellisen ja ikuisen välillä.
+
+![](/uploads/open_sky_2004-699x1024.jpg)
+
+Kolmas ja itselleni hätkähdyttävin teos on _Open Skyta_ muutaman vuoden varhaisempi _Open Field_ (kuva alla).
+
+![](/uploads/turrell.jpg)
+
+Teoksen katsominen oli orkestroitu tarkasti: riisuimme kengät ja odotimme omaa vuoroamme huoneen ulkopuolella käytävässä. Museon työntekijä haki aina viisi ihmistä kerrallaan katsomaan teosta. Lopulta tuli meidän vuoro ja astelimme tilaan. Huoneessa oli portaikko, jonka yläpäässä oli jonkinlainen seinään projisoitu suorakaide. Meitä kehotettiin nousemaan varovasti portaita ylös. Vasta ylhäällä silmät alkoivat hahmottaa heijastuvaa väriä paremmin. Kaksiulotteinen pinta muuttui kolmiulotteisksi isoksi huoneeksi silmiemme edessä ja astuimme sisään, kuin toiseen ulottuvuuteen. Kuin sci-fi -elokuvassa. Valo on todellakin Turrellilla hallussa.
