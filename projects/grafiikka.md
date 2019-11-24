@@ -13,13 +13,13 @@ order: 6
 
 Puupiirros oli minulle uusi tekniikka. Pelkäsin vähän etukäteen kaivertamisen fyysistä kuormittavuutta, mutta hyvillä terävillä välineillä se ei koitunut ongelmaksi. Laattakin oli pinnaltaan melko pehmeää on 5-6 mm paksua vanerilevyä.
 
-Aiheekseni valitsin gepardin, jonka toteutin kyllä epärealistisin värein. 
+Aiheekseni valitsin gepardin, jonka toteutin kyllä epärealistisin värein.
 
 ![](/uploads/veisto_pieni.jpg)
 
 ![](/uploads/gepardikollaasi.jpg)
 
-Tein töihin yhteensä kolme painokertaa, joista ensimmäinen oli pelkkä taustaväri. Oikean puoleisessa kuvassa ylhäällä on toinen painokerta tehty keltaisen pohjavärin päälle oranssilla. 
+Tein töihin yhteensä kolme painokertaa, joista ensimmäinen oli pelkkä taustaväri. Oikean puoleisessa kuvassa ylhäällä on toinen painokerta tehty keltaisen pohjavärin päälle oranssilla.
 
 ![](/uploads/gepardikeltpieni.jpg)
 
@@ -27,7 +27,7 @@ Tein töihin yhteensä kolme painokertaa, joista ensimmäinen oli pelkkä tausta
 
 ![](/uploads/peppupieni.jpg)
 
-Pidin työssäni eniten oikeasa reunassa olevasta ruohokasvillisuudesta, sillä kaiverruksen jälki on siinä kohdassa rentoa ja tummanvieoletti painojällki päästää kauniisti läpi alla olevaa väriä. Onnistuin levittämään värin riittävän ohueksi kerrokseksi laatalle niin, että puiden syyt tulevat esiin tuoden pintaan elävyyttä. Kohdistuksessa olisi voinut olla enemmän tarkkuutta. 
+Pidin työssäni eniten oikeasa reunassa olevasta ruohokasvillisuudesta, sillä kaiverruksen jälki on siinä kohdassa rentoa ja tummanvioletti painojällki päästää kauniisti läpi alla olevaa väriä. Onnistuin levittämään värin riittävän ohueksi kerrokseksi laatalle niin, että puiden syyt tulevat esiin tuoden pintaan elävyyttä. Kohdistuksessa olisi voinut olla enemmän tarkkuutta.
 
 Puupiirros oli grafiikan kurssin tekniikoista minulle tärkein. Pikkutarkka tekeminen jäi materiaalien ansioista sivuun ja mieli alkoi työskentelmään uudella levollisemmalla tavalla. Nyt tekisin toisin työssäni monta asiaa, joita kiireessä ja ensikertalaisena en osannut paremmin ajatella. Aion jatkaa puupiirroksen tekemistä heti kun saan järjestettyä itselleni siihen mahdollisuuden.
 
@@ -47,7 +47,7 @@ Opettajamme Rita Vargas on omaa luokkaansa; hän selittää asiat hyvin yksityis
 
 ![](/uploads/kuivat.jpg)
 
-Kuivaneulatekniikan opetusviikonloppu sattui päällekkäin Japanin matkan kanssa. Sattumaoisin olen käynyt taidekasvatuksen opinnoissani (2015) Ritan grafiikan kurssin, jolla teimme kuivaneulatöitäkin. Yllä olevat työt ovat tuolta kurssilta. Tämän tekniikan pariin olisi kyllä hyvä palata uudelleen, sillä kurssista on jo aika kauan aikaa. 
+Kuivaneulatekniikan opetusviikonloppu sattui päällekkäin Japanin matkan kanssa. Sattumaoisin olen käynyt taidekasvatuksen opinnoissani (2015) Ritan grafiikan kurssin, jolla teimme kuivaneulatöitäkin. Yllä olevat työt ovat tuolta kurssilta. Tämän tekniikan pariin olisi kyllä hyvä palata uudelleen, sillä kurssista on jo aika kauan aikaa.
 
 ## Carborundum
 
@@ -57,7 +57,11 @@ Kuivaneulatekniikan opetusviikonloppu sattui päällekkäin Japanin matkan kanss
 
 ![](/uploads/puutkoll.jpg)
 
+Sain carborundum-tekniikkaan melko niukalti ohjeistusta johtuen siitä, että olin poissa työskentelyyn ohjaavalta kerralta. Työskentelin siis melko intuitiivisesti kokeilemalla. Huomiona itselle, että yhden yön kuivumisaika ei ehkä riitä laatan käsittelyn kiinnittymiseen. Pestessä laatasta lähti paljon ainesta ja sitä tarttui myös painotöihin.
+
 ## Pehmeäpohja
+
+Pehmeäpohja oli itselleni uusi kiinnostava tuttavuus. Monivaiheinen laatan työstäminen vaati tarkkuutta ja keskittymistä, mutta lopputulos oli palkitseva. Tässä työssä käytimme kasvien osia painokuvion tekemiseen. (Valitsemani lehti on poimittu syksyiseltä japaninmatkaltamme ja sainkin työstä mainion matkamuiston.) Minua jäi kiinnostamaan, millaista jälkeä pehmeäpohjalla olisi syntynyt piirtäen tai muilla tavoin pintaa muokkaamalla.
 
 ![](/uploads/pehmeäkollaasi.jpg)
 
