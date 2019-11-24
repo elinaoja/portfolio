@@ -1,6 +1,6 @@
 ---
 date: 2019-11-21
-thumbnail: "/uploads/teshimapisarat.jpg"
+thumbnail: "/uploads/turrell.jpg"
 title: Museokäynnit – Japani
 categories:
 - museo
