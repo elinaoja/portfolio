@@ -33,7 +33,7 @@ Puupiirros oli grafiikan kurssin tekniikoista minulle tärkein. Pikkutarkka teke
 
 ## Silkkipaino
 
-Silkkipaino tai serigrafia oli minulle entuudestaan tuttu menetelmä, sillä olen opiskellut sitä päätekniikkana kahden vuoden ajan artesaaniopinnoissani. Olen käyttänyt menetelmää monin eri lähestymistavoin, painopohjana lähinnä kangas . Kertaus on tietenkin aina tervetullutta ja onhan paperi materiaalina itselleni vieraampi. Oli ilo huomata, että osaamiseni oli säilynyt suurinpiirtein ennallaan, vaikken ole sitä vuosiin päässyt hiomaan. Myös Ratamon työskentelyolosuhteet tekivät minuun vaikutuksen.
+Silkkipaino tai serigrafia oli minulle entuudestaan tuttu menetelmä, sillä olen opiskellut sitä päätekniikkana kahden vuoden ajan artesaaniopinnoissani. Olen käyttänyt menetelmää monin eri lähestymistavoin, painopohjana lähinnä kangas. Kertaus on tietenkin aina tervetullutta ja onhan paperi materiaalina itselleni vieraampi. Oli ilo huomata, että osaamiseni oli säilynyt suurinpiirtein ennallaan, vaikka en ole sitä vuosiin päässyt hiomaan. Myös Ratamon loistavat työskentelyolosuhteet tekivät minuun vaikutuksen.
 
 Opettajamme Rita Vargas on omaa luokkaansa; hän selittää asiat hyvin yksityiskohtaisesti siten, että kaikki kuulevat. Tämän lisäksi hän kiinnittää paljon huomiota työturvallisuuteen ja muutenkin hyviin työkäytänteisiin. Arvostan tällaista huomion tasaista jakamista ja osaamista pajatyöskentelyssä todella paljon.
 
