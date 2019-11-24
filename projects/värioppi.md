@@ -41,15 +41,13 @@ Suoran valon sekoittuminen eli additiivinen värien sekoittuminen tulee ymmärre
 
 Subtraktiivisessa värisekoituksessa ei koskaan synny valkoista, vaan päin vastoin, mitä useampia värejä sekoitetaan sitä tummempaa saadaan aikaiseksi. Esimerkiksi maalipigmentit toimivat tällä periaatteella.
 
-Tehtävä 10, Nelivärisointu, oli minulle kenties kaikkein mieluisin. Tehtävänä oli muodostaa neljän värin sarjat, joista toinen koostuu vaaleista ja toinen tummista väreistä. Värien keskinäinen valoisuusero tulisi säilyä samana molemmissa värisarjoissa. Saimme ohjeeksi etsiä tehtävään itselle epämiellyttäviä tai omasta mielestä epäharmonisia värejä.
+Tehtävä 10, nelivärisointu, oli minulle kenties kaikkein mieluisin. Tehtävänä oli muodostaa neljän värin sarjat, joista toinen koostuu vaaleista ja toinen tummista väreistä. Värien keskinäinen valoisuusero tulisi säilyä samana molemmissa värisarjoissa. Saimme ohjeeksi etsiä tehtävään itselle epämiellyttäviä tai omasta mielestä epäharmonisia värejä.
 
 ![](/uploads/värisointu.jpg)
 
 Opimme, että kuten sävelten välillä on intervallit tai akustinen suhde, myös värien välillä on tällaiset määriteltävissä olevat aallonpituudet. Värin intensiteetti (kirkkaus) ja valon intensiteetti (valoisuus) pätevät myös intervalleissa. Oli tärkeää havaita, että mikä tahansa väri tai väriyhdistelmä on kaunis, kun kokonaisuus on harmoniassa.
 
-Tehtävässä 11 opettelimme kuultovärien ymmärtämistä.
-
-Pintavärit ovat objektien ominaisvärejä. Kuultovärit puolestaan ilmenevät luonnossa ohuina, läpikuultavina kerroksina silmän ja kohteen välissä. Ne ovat kohteen pintaväristä riippumattomia. Havaitsemme kuultovärejä esimerkiksi ilmamassan tai auringon valon tuomissa sävyissä.
+Tehtävässä 11 opettelimme kuultovärien ymmärtämistä. Pintavärit ovat objektien ominaisvärejä. Kuultovärit puolestaan ilmenevät luonnossa ohuina, läpikuultavina kerroksina silmän ja kohteen välissä. Ne ovat kohteen pintaväristä riippumattomia. Havaitsemme kuultovärejä esimerkiksi ilmamassan tai auringon valon tuomissa sävyissä.
 
 Syvyysväri esiintyy kolmiulotteisissa nesteissä. Voimme havaita syvyysvärin vaikutuksen esimerkiksi vedellä täytettyä uima-allasta tutkimalla; vaikka vesi on saman väristä kaikkialla altaassa, veden värit syvenevät vesimassan lisääntyessä. Vesiväri on syvyysväri.
 
@@ -57,6 +55,6 @@ Tehtävässä tuli hakea neljä väriä ja etsiä niille kuultovärit kaksinkert
 
 ![](/uploads/lato2.jpg)
 
-Tehtävässä 12 tutkimme Bezoldin efektiä neljällä värisarjalla. Tässä optisessa sekoittumisessa on kyse kahden tai useamman samanaikaisesti havaittavan värin sulautumisesta yhdeksi uudeksi väriksi. Seurauksena kantavärit mitätöityvät (vrt. pointtillismi). Tehtävässä tuli poistaa jokaisesta väritilasta yksi väri ja korvata se uudella. Tutkimme miten väritilat muuttuvat yhden värin vaihtuessa. Alla olevassa kuvassa vasemmalla tehtävän toteutus ja oikealla sama kuva sumennettuna niin, että värit sekoittuvat yhdeksi.
+Tehtävässä 12 tutkimme Bezoldin efektiä neljällä värisarjalla. Tässä optisessa sekoittumisessa on kyse kahden tai useamman samanaikaisesti havaittavan värin sulautumisesta yhdeksi uudeksi väriksi. Seurauksena kantavärit mitätöityvät (vrt. pointillismi). Tehtävässä tuli poistaa jokaisesta väritilasta yksi väri ja korvata se uudella. Tutkimme miten väritilat muuttuvat yhden värin vaihtuessa. Alla olevassa kuvassa vasemmalla tehtävän toteutus ja oikealla sama kuva sumennettuna niin, että värit sekoittuvat yhdeksi.
 
 ![](/uploads/bezoldinefekti.jpg)
