@@ -39,10 +39,10 @@ fields:
   name: order
   label: Order number
 pages:
+- projects/museokäynnit.md
 - projects/grafiikka.md
 - projects/havaintopiirustus.md
 - projects/värioppi.md
 - projects/kuvan-rakentaminen.md
-- projects/museokäynnit.md
 - projects/maalaus.md
 - projects/plastinen-sommittelu.md

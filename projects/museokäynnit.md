@@ -13,7 +13,7 @@ Tässä tekstissä esittelen hieman Naoshiman taidesaarta ja siellä sijaitsevaa
 
 ## Benesse Art Site Naoshima
 
-Saavuimme Naoshiman taidesaarelle lokakuisena maanantai-iltana matkustettuamme ensin koko päivän Koya-vuorelta kohti Seton sisämerta. Aurinko laski ja meri oli tyyni lauttamatkan aikana. Perille päästyämme suuntasimme suoraan majapaikkaamme, erikoiseen perinteiseen japanilaiseen taloon, joka on jättäytynyt rohkeasti 50-luvulle. Tämä pop-taide -esinein ja lukuisin arkkitehtuuri- ja taidekirjoin varustettu vintagetalo saarella lienee japanilaista hipsteriä parhaimmillaan.
+Saavuimme Naoshiman taidesaarelle lokakuisena maanantai-iltana matkustettuamme ensin koko päivän Koya-vuorelta kohti Seton sisämerta. Aurinko laski ja meri oli tyyni lauttamatkan aikana. Perille päästyämme suuntasimme suoraan majapaikkaamme, erikoiseen perinteiseen japanilaiseen taloon, joka on jättäytynyt rohkeasti 50-luvulle. Tämä pop-taide -esinein ja lukuisin arkkitehtuuri- ja taidekirjoin varustettu vintagetalo lienee japanilaista hipsteriä parhaimmillaan.
 
 Erikoisia ja kysyttyjä majapaikkoja Naoshima on pullollaan; kaikki on loppuunmyyty kuukauden päähän ja sesonkiaikoina pidemmällekin, sillä syrjäinen paikka kerää vuosittain miljoonia vierailijoita. Vielä 1980-luvulla se oli näivettyvä kalastajasaari, eikä siellä nytkään ole Wikipedian mukaan asukkaita kuin reilu 3000. Kalastus ja kalateollisuus elävät edelleen ja näkyvät myös katukuvassa.
 
@@ -23,7 +23,7 @@ Naoshiman taidetoiminnan taustalla on kustantaja Tetsuhiko Fukutaken sekä Naosh
 
 ![](/uploads/chichu_top-thumb-1440x960-501.jpg)
 
-Vierailimme Naoshiman saarella vuonna 2004 auenneessa Chichu-taidemuseossa. Museon nimi on suomeksi käännettynä ”maan sisällä”; se on rakennettu pääasiassa sisälle vuoreen, jotta kaunis luonnonmaisema ja näkymä merelle säilyisivät. Arkkitehti **Takao Andon** suunnittelema rakennuskompleksi on itsessään merkittävä taideteos, joka nousee empimättä museon kolmen muun taiteilijan töiden rinnalle. Nämä kolme muuta ovat **Claude Monet**, **James Turrel** sekä **Walter de Maria**. Kaikki edellä luetellut taiteilijat ovat ansainneet yhtälailla huomiota, mutta kiinnitän huomioni tässä tekstissä James Turrelin teoksiin.
+Vierailimme Naoshiman saarella vuonna 2004 auenneessa Chichu-taidemuseossa. Museon nimi on suomeksi käännettynä ”maan sisällä”; se on rakennettu pääasiassa sisälle vuoreen, jotta kaunis luonnonmaisema ja näkymä merelle säilyisivät. Arkkitehti **Takao Andon** suunnittelema rakennuskompleksi on itsessään merkittävä taideteos, joka nousee empimättä museon kolmen muun taiteilijan töiden rinnalle. Nämä kolme muuta ovat **Claude Monet**, **James Turrel** sekä **Walter de Maria**. Kaikki edellä luetellut taiteilijat ovat ansainneet yhtälailla huomiota, mutta käsittelen tässä tekstissä James Turrelin esillä olleita teoksia.
 
 Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa, valoa ja havaitsemista. Chichu Art Museumissa on esillä kolme Turrellin valoa tutkivaa työtä. Varhaisin teos _Afrum, Pale Blue_ tuo esiin, miten Turrell jo 1960-luvulla pyrki käsittelemään valoa visuaalisena objektina, katsomisen kohteena. Normaalisti emme useinkaan tule katsoneeksi valoa itseään, vaan valo toimii välineenä muiden asioideiden näkemiseen. Turrellin nurkkaan projisoitu valoteos teos hahmottuu katsojalle sinertävänä ilmassa leijuvana kuutiona. Valo on objekti, jolla on massa ja joka ottaa tilan haltuunsa.
 
@@ -37,6 +37,8 @@ Kolmas ja itselleni hätkähdyttävin teos on _Open Skyta_ muutaman vuoden varha
 
 ![](/uploads/turrell.jpg)
 
-Teoksen katsominen oli orkestroitu tarkasti: riisuimme kengät ja odotimme omaa vuoroamme huoneen ulkopuolella käytävässä. Museon työntekijä haki aina viisi ihmistä kerrallaan katsomaan teosta. Lopulta tuli meidän vuoro ja astelimme tilaan. Huoneessa oli portaikko, jonka yläpäässä oli jonkinlainen seinään projisoitu turkoosi suorakaide. Meitä kehotettiin nousemaan varovasti portaita ylös. Vasta ylhäällä silmät alkoivat hahmottaa heijastuvaa väriä paremmin. Kaksiulotteinen pinta muuttui kolmiulotteisksi isoksi huoneeksi silmiemme edessä ja astuimme sisään, kuin toiseen ulottuvuuteen. Kuin sci-fi -elokuvassa. En ole koskaan aiemmin kokenut vastaavaa äärimmäistä siirtymää tilasta toiseen. Valo on todellakin Turrellilla hallussa.
+Teoksen katsominen oli orkestroitu tarkasti: riisuimme kengät ja odotimme omaa vuoroamme huoneen ulkopuolella käytävässä. Museon työntekijä haki aina viisi ihmistä kerrallaan katsomaan teosta. Lopulta tuli meidän vuoro ja astelimme tilaan. Huoneessa oli portaikko, jonka yläpäässä oli jonkinlainen seinään projisoitu turkoosi suorakaide. Meitä kehotettiin nousemaan varovasti portaita ylös. Vasta ylhäällä silmät alkoivat hahmottaa heijastuvaa väriä paremmin. Kaksiulotteinen pinta muuttui kolmiulotteisksi isoksi huoneeksi silmiemme edessä ja astuimme sisään, kuin toiseen ulottuvuuteen, kuin sci-fi -elokuvassa. En ole koskaan aiemmin kokenut vastaavaa äärimmäistä siirtymää tilasta toiseen. Valo on todellakin Turrellilla hallussa.
+
+![](/uploads/jamesturrell.jpg)
 
 Lisää tietoa Benesse Art Siten toiminnasta ja kohteista osoitteessa [http://benesse-artsite.jp/en/](http://benesse-artsite.jp/en/ "http://benesse-artsite.jp/en/")
