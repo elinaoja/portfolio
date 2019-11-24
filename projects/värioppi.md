@@ -25,7 +25,7 @@ Pohjaväri vaikuttaa päälle asetettuun väriin siten, että se vähentää sii
 
 ![](/uploads/taustavärivaikutus.jpg)
 
-Tehtävä 7 on nimeltään Läpikuultavuuden illuusio. Siinä pyritään kuvittelemaan, millainen väri syntyy kahta eri väriä sekoittamalla. Alla oleva kuva työstäni osoittaa, etten onnistunut ratkaisemaan tehtävää oikein. Oikealla oleva sinisävyinen kuvio on lähellä totuutta, mutta kaksi oikeanpuoleista vihertävää kuviota jäävät liian tummiksi niiltä osin kuin väri "sekoittuu" vaaleaan pohjaväriin.
+Tehtävä 7 on nimeltään Läpikuultavuuden illuusio. Siinä pyritään kuvittelemaan, millainen väri syntyy kahta eri väriä sekoittamalla. Alla oleva kuva työstäni osoittaa, etten onnistunut ratkaisemaan tehtävää oikein. Oikealla oleva sinisävyinen kuvio on lähellä totuutta, mutta kaksi vasemmanpuoleista vihertävää kuviota jäävät liian tummiksi niiltä osin kuin väri "sekoittuu" vaaleaan pohjaväriin.
 
 ![](/uploads/kukat.jpg)
 
@@ -33,7 +33,7 @@ Tehtävässä 8 tutkimme läpikuultavuutta ja tilailluusiota. Miten väreillä s
 
 ![](/uploads/kiskot.jpg)
 
-Tehtävässä 9 tutkimme Additiivista ja subtraktiivista värisekoitusta
+Tehtävässä 9 tutkimme additiivista ja subtraktiivista värisekoitusta
 
 Suoran valon sekoittuminen eli additiivinen värien sekoittuminen tulee ymmärrettäväksi prismalinssin avulla. Värispektri syntyy valkoisen auringonvalon hajaantuessa; spektrin eri värit ovat valovoimaltaan heikompia kuin valkoinen valo, jonka ne yhdessä muodostavat. Additiivisessa sekoittumisessa eri väristen valojen sekoittuminen päällekkäin lisää valoisuutta. Esimerkiksi tietokoneen näyttö toimii tällä periaatteella.
 
@@ -51,7 +51,7 @@ Tehtävässä 11 opettelimme kuultovärien ymmärtämistä. Pintavärit ovat obj
 
 Syvyysväri esiintyy kolmiulotteisissa nesteissä. Voimme havaita syvyysvärin vaikutuksen esimerkiksi vedellä täytettyä uima-allasta tutkimalla; vaikka vesi on saman väristä kaikkialla altaassa, veden värit syvenevät vesimassan lisääntyessä. Vesiväri on syvyysväri.
 
-Tehtävässä tuli hakea neljä väriä ja etsiä niille kuultovärit kaksinkertaisesti. Toteutimme myös käänteisversion.
+Tehtävässä tuli hakea neljä väriä ja etsiä niille kuultovärit kaksinkertaisesti. Toteutimme myös käänteisversion. Omassa työssäni on näkymä ikkunasta kahden eripaksuisen verhon takaa.
 
 ![](/uploads/lato2.jpg)
 
@@ -59,4 +59,4 @@ Tehtävässä 12 tutkimme Bezoldin efektiä neljällä värisarjalla. Tässä op
 
 ![](/uploads/bezoldinefekti.jpg)
 
-Kuten alussa kirjoitin, väriopin kurssi muutti näkemistä. Nauroimme ryhmän kanssa itsellemme, kun pohdimme keskustellen esimerkiksi vihreää värilappua katsoessa, että onko se kuitenkin violetti! Harmaata väri on harvoin enää vain harmaa, sillä se taittuu usein johonkin suuntaan, eikä sitä voi enää ohittaa. Väriopin kurssilla opittu siirtyy kuitenkin hitaasti tai toisaalta huomaamatta muuhun tekemiseen. Ajattelen että näihin asioihin voi myös tietoisesti palata, kun värivalintoja tulee vaikkapa maalatessa eteen ratkaistavaksi. Esimerkiksi läpikuultavuuden kuvaaminen maalaamalla on itseäni kiehtova aihe, ja palaisin mielelläni pohtimaan sitä Albersin pariin. Väripalettia voi kevyesti hioa näillä opeilla, jotta ne muuttuvat osaksi ajattelua ja intuitiota. 
+Kuten alussa kirjoitin, väriopin kurssi muutti näkemistä. Nauroimme ryhmän kanssa itsellemme, kun pohdimme keskustellen esimerkiksi vihreää värilappua katsoessa, että onko se kuitenkin violetti! Harmaata väri on harvoin enää vain harmaa, sillä se taittuu usein johonkin suuntaan, eikä sitä voi enää ohittaa. Väriopin kurssilla opittu siirtyy kuitenkin hitaasti tai toisaalta huomaamatta muuhun tekemiseen. Ajattelen että näihin asioihin voi myös tietoisesti palata, kun värivalintoja tulee vaikkapa maalatessa eteen ratkaistavaksi. Esimerkiksi läpikuultavuuden kuvaaminen maalaamalla on itseäni kiehtova aihe, ja palaisin mielelläni pohtimaan sitä Albersin pariin. Väripalettia voi kevyesti hioa näillä opeilla, jotta ne muuttuvat osaksi ajattelua ja intuitiota.
