@@ -11,7 +11,7 @@ order: 7
 ---
 ## Benesse Art Site Naoshima
 
-Saavuimme Naoshiman taidesaarelle lokakuisena maanantai-iltana matkustettuamme ensin koko päivän Koya-vuorelta kohti Seton sisämerta. Aurinko laski ja meri oli tyyni lauttamatkan aikana. Perille päästyämme suuntasimme suoraan majapaikkaamme, erikoiseen perinteiseen japanilaiseen taloon, joka on jättäytynyt rohkeasti 50-luvulle. Tämä pop-taide -esinein ja lukuisin arkkitehtuuri- ja taidekirjoin varustettu vintagetalo lienee yksi hipstereimpiä asioita, joita olen koskaan päässyt näkemään.
+Saavuimme Naoshiman taidesaarelle lokakuisena maanantai-iltana matkustettuamme ensin koko päivän Koya-vuorelta kohti Seton sisämerta. Aurinko laski ja meri oli tyyni lauttamatkan aikana. Perille päästyämme suuntasimme suoraan majapaikkaamme, erikoiseen perinteiseen japanilaiseen taloon, joka on jättäytynyt rohkeasti 50-luvulle. Tämä pop-taide -esinein ja lukuisin arkkitehtuuri- ja taidekirjoin varustettu vintagetalo saarella lienee japanilaista hipsteriä parhaimmillaan.
 
 Erikoisia ja kysyttyjä majapaikkoja Naoshima on pullollaan; kaikki on loppuunmyyty kuukauden päähän ja sesonkiaikoina pidemmällekin, sillä syrjäinen paikka kerää vuosittain miljoonia vierailijoita. Vielä 1980-luvulla se oli näivettyvä kalastajasaari, eikä siellä nytkään ole Wikipedian mukaan asukkaita kuin reilu 3000. Kalastus ja kalateollisuus elävät edelleen ja näkyvät myös katukuvassa.
 
@@ -27,7 +27,7 @@ Amerikkalainen James Turrell (1943) on taiteilijaurallaan tutkinut paljon tilaa,
 
 ![](/uploads/Afrum-Pale-Blue-1968_Chichu-662x1024.jpg)
 
-_Open Sky_ (2004) osoittaa, miten Turrell on edennyt valon tutkimisessa uudelle tasolle. Teos on huone, jonka kattoon on avattu aukko. Aukosta on näkymä taivalle. Huonetta kiertävät kiinteät korkeaselkäiset kivipenkit, joilla ihmiset istuvat katsomassa teosta. Huone on valaistu led- ja xenon-valoilla. Valot imitoivat taivaan värejä, matkien taivaalla alati muuttuvaa valotilannetta. Turrell maalaa valolla taivaan vaiheet arkkitehtuuriin. Väriharmonia luonnollisen ja keinotekoisen valon välillä on outo ja kiehtova. Se synnyttää intensiivisen tilallisen kokemuksen, kohtaamisen hetkellisen ja ikuisen välillä.
+_Open Sky_ (2004) osoittaa, miten Turrell on edennyt valon tutkimisessa uudelle tasolle. Teos on huone, jonka kattoon on avattu aukko. Aukosta on näkymä taivalle. Huonetta kiertävät kiinteät korkeaselkäiset kivipenkit, joilla ihmiset istuvat katsomassa teosta. Huone on valaistu led- ja xenon-valoilla. Valot imitoivat taivaan värejä, matkien taivaalla alati muuttuvaa valotilannetta. Turrell maalaa valolla taivaan vaiheet arkkitehtuuriin. Väriharmonia luonnollisen ja keinotekoisen valon välillä on outo ja kiehtova. Se synnyttää intensiivisen tilallisen kokemuksen, kohtaamisen hetkellisen ja ikuisen välillä. Turrell itse kommentoi taidettaan näin: “\[My art\] is about your seeing, like wordless thought that comes from looking into fire.”
 
 ![](/uploads/open_sky_2004-699x1024.jpg)
 
