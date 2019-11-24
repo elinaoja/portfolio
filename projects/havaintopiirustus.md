@@ -31,7 +31,7 @@ Tietäisipä Pertti, kuinka haastavan tilanteen järjesti, kun pisti tilan häm�
 
 Loistava kotiläksy! Elävää mallia piirtäessä saatan jättää kädet ja jalat jopa piirtämättä, koska aika ei useimmiten riitä ja koska ajattelen, että en osaa. (Osaanhan minä jos on aikaa katsoa.)
 
-Valitsin aluksi työvälineeksi pehmeän lyijykynän, jolla tein suht karkeita luonnoksia. Olin tyytymätön tuloksiin, sillä mielestäni minun olisi jaksettava katsoa jo tarkemmin. Miksi en tavoita yksityiskohtia? Tuntuu kuin en van näkisi niitä, en vaikka kuinka yritän. Puolivahingossa jatkoin työskentelyä lyijytäytekynällä ja johan alkoi näkökyky tarkentua! Mikä oivallus: Jos haluan nähdä tarkasti jotain, tarvitsen tarkan piirtimen.
+Valitsin aluksi työvälineeksi pehmeän lyijykynän, jolla tein suht karkeita luonnoksia. Olin tyytymätön tuloksiin, sillä mielestäni minun olisi jaksettava katsoa jo tarkemmin. Miksi en tavoita yksityiskohtia? Tuntuu kuin en vaan näkisi niitä, en vaikka kuinka yritän. Puolivahingossa jatkoin työskentelyä lyijytäytekynällä ja johan alkoi näkökyky tarkentua! Mikä oivallus: Jos haluan nähdä tarkasti jotain, tarvitsen tarkan piirtimen.
 
 En erityisemmin ihaile tarkkoja piirroksia, vaikka näin aloittelijana saatan omassa tekemisessäni jotenkin erehtyä mieltämään ne taitavammiksi kuin karkeamman viivan. Mutta ei. Ajattelen että minun on osattava tarkka, jotta voin hallita epätarkkaa.
 
@@ -55,7 +55,7 @@ Otin tarkasteluni kohteeksi ison portaikon kahvihuonetasanteen. Valitsemani paik
 
 ![](/uploads/kipsitussipieni.jpg)
 
-Antin tunneilla teimme myös tussitöitä. Itse tein kipsipään, koska ajattelin sen sopivan interiööriin. Antti nimittäin kehotti pohtimaan myös mahdollisuutta yhdistellä kahta eri tekniikkaa interiöörityössä. Ymmärsin asian siten, että tekniikoiden välinen jännite voisi tuoda työhön yllättävää mielenkiintoa. Tehtävän olisi voinut toteuttaa lukemattomin mielenkiintoisin tavoin. Päädyin kuitenkin liittämään tussityöni ehkä vähän tylsästi Photoshopilla interiöriin läpikuultavaksi hahmoksi. Näen työni luonnoksena, joka voisi olla alku isommalle työlle. Voisin viedä työtä eteenpäin sommittelua ja tekniikoiden yhdistelytapoja pohtimalla.
+Antin tunneilla teimme myös tussitöitä. Itse tein kipsipään, koska ajattelin sen sopivan interiööriin. Antti nimittäin kehotti pohtimaan myös mahdollisuutta yhdistellä kahta eri tekniikkaa interiöörityössä. Ymmärsin asian siten, että tekniikoiden välinen jännite voisi tuoda työhön yllättävää mielenkiintoa. Tehtävän olisi voinut toteuttaa lukemattomin mielenkiintoisin tavoin. Päädyin kuitenkin liittämään tussityöni ehkä vähän tylsästi Photoshopilla interiööriin läpikuultavaksi hahmoksi. Näen työni luonnoksena, joka voisi olla alku isommalle työlle. Voisin viedä työtä eteenpäin sommittelua ja tekniikoiden yhdistelytapoja pohtimalla.
 
 Työn nimi on Genius loci, paikan henki. Mielstäni C-rakennus voisi tulla nähdyksi antiikin rakennusperinteen tulkintana, paikkana jossa kipsipatsaiden hahmot tulevat vastaan kahvihuoneen kynnyksellä.
 
@@ -69,11 +69,11 @@ Tämän aika ei ollut vielä, mutta haluan kuvan muistiin portfoliooni. Aion pal
 
 ## Takaisin elävään malliin
 
-Ihmiskeho on loputon aihe, jonka alkumetrejä on suostuttava kulkemaan melko kauan. Alla olevaa kuvaa katsoessani mietin, että opettelen vasta näkemään. Muistan mallin silmieni edessä, kuinka paino oli taaimmaisella jalalla eikä suinkaan noin edessä. Taisin taas hermoilla jonkun yksityiskohdan kanssa, katsoa liian läheltä. Kenties omat olakapäät nousivat jo korviin enkä osannut siirtää painontuntua kuvaankaan. Mutta sain kuvan paperille. Ja melkein valmiiksi!
+Ihmiskeho on loputon aihe, jonka alkumetrejä on suostuttava kulkemaan melko kauan. Alla olevaa kuvaa katsoessani mietin, että opettelen vasta näkemään. Muistan mallin silmieni edessä, kuinka paino oli taaimmaisella jalalla, eikä suinkaan noin edessä. Taisin taas hermoilla jonkun yksityiskohdan kanssa, katsoa liian läheltä. Kenties omat olkapäät nousivat jo korviin enkä osannut siirtää painontuntua kuvaankaan. Mutta sain kuvan paperille. Ja melkein valmiiksi!
 
 ![](/uploads/hiilipieni.jpg)
 
-Pidän Marjo Autio-Hiltusen opetustyylistä. Hän osaa ohjata rauhallisesti, ja keskittyneesti. Hän ymmärtää kaltaiseni epävarman piistäjän kompuroinnin, tai siltä ainakin tuntuu. Tuki tulee oikeaan kohtaan.
+Pidän opettajamme Marjo Autio-Hiltusen opetustyylistä. Hän osaa ohjata rauhallisesti, ja keskittyneesti. Hän ymmärtää kaltaiseni epävarman piirtäjän kompuroinnin, tai siltä ainakin tuntuu. Tuki tulee oikeaan kohtaan.
 
 Tehdessämme piirustusta, jossa malli vaihtoi paikkaa tilassa, aloin päästä jyvälle jostain uudesta. Luulen että kyseessä on kontrollin laukeaminen, joka antoi lisää tilaa itse tekemiselle, mikä ei ehkä vielä välity paperille. Istuvan hahmon kanssa väsyin ja piirtäminen lähti herpaantumaan. Taisin itsekin lysähtää.
 
