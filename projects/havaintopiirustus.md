@@ -13,7 +13,7 @@ order: 4
 
 Kuvataiteiden perusopintoni keskeytyivät vuonna 2016 havaintopiirustuksen opintojen aikaan. Tämä työ oli viimeinen, jonka tein. Sitten sairastuin ja vietin useita viikkoja sairaalassa. Palatessani takaisin piirtämisen äärelle 2019 alkuvuodesta olin jäässä. Ensimmäinen viikonloppu taisi mennä aika usvassa ja olin aivan uupunut kaikesta uudesta; heittäytymisyrityksistä, ihmisistä, intensiivisestä katsomisesta, silmä-käsi -yhteyden kankeudesta.
 
-Tässä ensimmäisen opiskelurupeaman viimeiseksi jääneessä työssä kuvapinta mustattiin ensiksi hiilellä kokonaan ja valokohtia lähdettiin kaivelemaan säämiskällä esiin (Mikä metafora tulevien kuukausien tapahtumille!). Pidin tästä käänteisestä tavasta työstää kuvapintaa, sillä se antoi tilaa nähdä uudella tavalla.
+Tässä ensimmäisen opiskelurupeaman viimeiseksi jääneessä työssä kuvapinta mustattiin ensiksi hiilellä kokonaan ja valokohtia lähdettiin kaivelemaan säämiskällä esiin – mikä hieno metafora tulevien kuukausien tapahtumille! Pidin tästä käänteisestä tavasta työstää kuvapintaa, sillä se antoi tilaa nähdä uudella tavalla.
 
 ![](/uploads/piirustus_2016_alastom.jpg)
 
