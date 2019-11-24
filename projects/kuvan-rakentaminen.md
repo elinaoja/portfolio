@@ -77,7 +77,7 @@ Omakuvan tekeminen oli yllättävän intensiivinen kokemus ihan tunnetasolla ast
 
 ![](/uploads/omakuva_pieni.jpg "Omakuva")
 
-Saimme tehtäväksi valmistaa myös omaa tailteilijaminää kuvaavan kollaasin. Olen toteuttanut työn konkereettisesti paperille, mutta laitan portfolioon alkuperäiset internetistä haalitut kuvat, jotta saan ne laadukkaammin esille. Minulla ei ole oikeutta kuvien käyttöön ja poistan ne blogistani arvioinnin jälkeen.
+Saimme tehtäväksi valmistaa myös omaa tailteilijaminää kuvaavan kollaasin. Olen toteuttanut työn konkreettisesti paperille, mutta laitan portfolioon alkuperäiset internetistä haalitut kuvat, jotta saan ne laadukkaammin esille. Minulla ei ole oikeutta kuvien käyttöön ja poistan ne blogistani arvioinnin jälkeen.
 
 ![](/uploads/kollaasiylaosa.jpg)
 
@@ -91,11 +91,11 @@ Yllättävää kyllä, vuonna 2016 tehty kuvakokoelma on kestänyt aikaa melko h
 
 ## Ajatuksia omasta taidesuhteesta
 
-Taiteen äärellä törmään jatkuvasti vastarintaan. Nytkin kun kirjoitan tätä, olen sitä mieltä, etten voi kirjoittaa tästä. En voi ryhtyä sanoittamaan sitä, minkä sisältö ei tunnetusti tyhjene sanoihin. Taide on suurelta osin vastarinnan kohtaamista ja sen kanssa olemista. Mielikuvituksen haastamista niin, että lopulta jotain oleellista tihkuu esiin ja löytyy se kohta, josta voi jatkaa eteenpäin. Tämä on mielestäni yksi tärkeimpiä taitoja, mitä ihmisellä voi olla. 
+Taiteen äärellä törmään jatkuvasti vastarintaan. Nytkin kun kirjoitan tätä, olen sitä mieltä, etten voi kirjoittaa tästä. En voi ryhtyä sanoittamaan sitä, minkä sisältö ei tunnetusti tyhjene sanoihin. Taide on suurelta osin vastarinnan kohtaamista ja sen kanssa olemista. Mielikuvituksen haastamista niin, että lopulta jotain oleellista tihkuu esiin ja löytyy se kohta, josta voi jatkaa eteenpäin. Tämä on mielestäni yksi tärkeimpiä taitoja, mitä ihmisellä voi olla.
 
 Oman taidesuhteen tarkastelu voi lipsahtaa helposti faktuaalisten tapahtumien tai taidesaavutusten luettelemiseen. En tiedä, onko missään vähemmän taidetta kuin näillä listoilla. En ole syntynyt taideperheeseen, enkä ole saanut lapsena tai nuorena kunnollista taideopetusta peruskoulussa enkä lukiossa, saatika näiden ulkopuolella. Lapsena olin kiinnostunut majojen rakentamisesta, jännistä paikoista ja tunnelmista. (Tämä mielenkiinto on säilynyt tähän päivään saakka.) Elämä oli lähellä puoliurbaania luontoa, liikuimme ystävieni kanssa juosten ja toteutimme kaikki huonotkin ideat. Eteläpohjalaisilla pikkukylän lapsilla oli myös huolia, perheissä oli synkkiäkin ongelmia, ja ne oireilivat meissä lapsissa.
 
-Nuorena rakensin identiteettiäni valitsemalla vaatteeni ja musiikkini, käymällä bändien keikoilla ja tanssimalla ystävieni kanssa villisti. Myös elokuvat olivat tärkeitä, ja Music Television! 
+Nuorena rakensin identiteettiäni valitsemalla vaatteeni ja musiikkini, käymällä bändien keikoilla ja tanssimalla ystävieni kanssa villisti. Myös elokuvat olivat tärkeitä, ja Music Television!
 
 Muutettuani pois lapsuudenkodistani, loin jonkinlaisen orastavan suhteen oman taiteen tekemiseen. Opiskelin erilaisia kädentaitoja, piirsin ja maalasinkin hieman. Tekeminen jäi silti suorittavaksi, en varsinaisesti kehittynyt, eikä omaa ääntä löytynyt. Pystyin kuitenkin vaikeissa elämäntilanteissa kahlaamaan eteenpäin taiteen avulla, ja niinä hetkinä tapahtui varmasti jotain, mikä sitoi minut ja taiteen ikuisesti yhteen. Ja sitten, vuosia myöhemmin, aloitin taidekasvatuksen opinnot Jyväskylän yliopistossa.
 
