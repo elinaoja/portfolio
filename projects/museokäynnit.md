@@ -38,3 +38,5 @@ Kolmas ja itselleni hätkähdyttävin teos on _Open Skyta_ muutaman vuoden varha
 ![](/uploads/turrell.jpg)
 
 Teoksen katsominen oli orkestroitu tarkasti: riisuimme kengät ja odotimme omaa vuoroamme huoneen ulkopuolella käytävässä. Museon työntekijä haki aina viisi ihmistä kerrallaan katsomaan teosta. Lopulta tuli meidän vuoro ja astelimme tilaan. Huoneessa oli portaikko, jonka yläpäässä oli jonkinlainen seinään projisoitu turkoosi suorakaide. Meitä kehotettiin nousemaan varovasti portaita ylös. Vasta ylhäällä silmät alkoivat hahmottaa heijastuvaa väriä paremmin. Kaksiulotteinen pinta muuttui kolmiulotteisksi isoksi huoneeksi silmiemme edessä ja astuimme sisään, kuin toiseen ulottuvuuteen. Kuin sci-fi -elokuvassa. En ole koskaan aiemmin kokenut vastaavaa äärimmäistä siirtymää tilasta toiseen. Valo on todellakin Turrellilla hallussa.
+
+Lisää tietoa Benesse Art Siten toiminnasta ja kohteista osoitteessa [http://benesse-artsite.jp/en/](http://benesse-artsite.jp/en/ "http://benesse-artsite.jp/en/")
