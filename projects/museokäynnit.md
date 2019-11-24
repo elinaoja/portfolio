@@ -9,6 +9,8 @@ project_fg_color: ''
 order: 7
 
 ---
+Tässä tekstissä esittelen hieman Naoshiman taidesaarta ja siellä sijaitsevaa Chichu Art Museumia. Vierailimme Naoshimassa mieheni kanssa lokakuussa 2019 Japanin matkallamme.
+
 ## Benesse Art Site Naoshima
 
 Saavuimme Naoshiman taidesaarelle lokakuisena maanantai-iltana matkustettuamme ensin koko päivän Koya-vuorelta kohti Seton sisämerta. Aurinko laski ja meri oli tyyni lauttamatkan aikana. Perille päästyämme suuntasimme suoraan majapaikkaamme, erikoiseen perinteiseen japanilaiseen taloon, joka on jättäytynyt rohkeasti 50-luvulle. Tämä pop-taide -esinein ja lukuisin arkkitehtuuri- ja taidekirjoin varustettu vintagetalo saarella lienee japanilaista hipsteriä parhaimmillaan.
